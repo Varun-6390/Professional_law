@@ -46,13 +46,7 @@ export default function Clients() {
           viewport={{ once: true, amount: 0.2 }}
           className="flex flex-col items-center mb-12"
         >
-          <motion.div
-            variants={itemVariants}
-            className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-50 border border-blue-100 text-[#1572ed] text-sm font-semibold mb-6 shadow-sm"
-          >
-            <Sparkles size={16} />
-            <span>Trusted Globally</span>
-          </motion.div>
+
           <motion.h2
             variants={itemVariants}
             className="text-4xl md:text-5xl font-extrabold text-[#314259] text-center tracking-tight"
@@ -99,7 +93,7 @@ export default function Clients() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.7, type: "spring", bounce: 0.3 }}
-          className="w-full relative rounded-[2rem] overflow-hidden bg-white border border-gray-100 shadow-lg flex flex-col md:block min-h-[460px] md:min-h-[380px] lg:min-h-[420px]"
+          className="w-full relative rounded-[2rem] overflow-hidden bg-white border border-gray-100 shadow-lg min-h-[320px] md:min-h-[380px] lg:min-h-[420px]"
         >
           {/* Background Image (Desktop Only) */}
           <div className="absolute inset-0 z-0 select-none pointer-events-none overflow-hidden rounded-[2rem] md:block hidden">
@@ -141,19 +135,6 @@ export default function Clients() {
             >
               Explore Assisted Filing Plans
             </button>
-          </div>
-
-          {/* Mobile Image Block (Mobile Only) */}
-          <div className="relative w-full h-[280px] md:hidden block overflow-hidden bg-transparent">
-            <div className="absolute -bottom-6 -right-6 -left-6 -top-6">
-              <Image
-                src="/assets/images/profimgs-removebg-preview.png"
-                alt="Professional Law Verified Experts"
-                fill
-                priority
-                className="object-contain object-right-bottom"
-              />
-            </div>
           </div>
         </motion.div>
       </div>

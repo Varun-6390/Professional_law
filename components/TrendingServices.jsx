@@ -139,20 +139,20 @@ export default function TrendingServices() {
           ref={searchContainerRef}
         >
           <div className="flex items-stretch w-full border border-white/50 rounded-full overflow-hidden bg-white/90 backdrop-blur-md shadow-lg transition-all focus-within:shadow-xl focus-within:bg-white relative z-20">
-            <div className="pl-6 flex items-center justify-center text-[#1572ed]">
-              <Search size={22} />
+            <div className="pl-3 md:pl-6 flex items-center justify-center text-[#1572ed]">
+              <Search size={20} className="md:w-[22px] md:h-[22px]" />
             </div>
-            <div className="relative flex-1 flex items-center">
+            <div className="relative flex-1 flex items-center min-w-0">
               <input
                 type="text"
                 value={inputValue}
                 onChange={(e) => setInputValue(e.target.value)}
                 onFocus={() => setIsSearchFocused(true)}
-                className="w-full py-4 px-4 outline-none text-[#314259] bg-transparent text-[16px] font-medium relative z-10"
+                className="w-full py-3 md:py-4 px-2 md:px-4 outline-none text-[#314259] bg-transparent text-[14px] md:text-[16px] font-medium relative z-10"
               />
               {/* Animated placeholder — only visible when input is empty */}
               {inputValue === "" && (
-                <div className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none overflow-hidden h-6 flex items-center">
+                <div className="absolute left-2 md:left-4 top-1/2 -translate-y-1/2 pointer-events-none overflow-hidden h-6 flex items-center">
                   <AnimatePresence mode="wait">
                     {showPlaceholder && (
                       <motion.span
@@ -161,7 +161,7 @@ export default function TrendingServices() {
                         animate={{ opacity: 1, y: 0 }}
                         exit={{ opacity: 0, y: -8 }}
                         transition={{ duration: 0.35, ease: "easeInOut" }}
-                        className="text-gray-400 text-[16px] font-medium whitespace-nowrap"
+                        className="text-gray-400 text-[13px] md:text-[16px] font-medium whitespace-nowrap"
                       >
                         {placeholderSuggestions[placeholderIndex]}
                       </motion.span>
@@ -170,7 +170,7 @@ export default function TrendingServices() {
                 </div>
               )}
             </div>
-            <button className="bg-[#f97316] text-white px-8 md:px-10 font-semibold text-[16px] hover:bg-[#ea580c] transition-colors flex items-center justify-center cursor-pointer">
+            <button className="bg-[#f97316] text-white px-4 md:px-10 font-semibold text-[14px] md:text-[16px] hover:bg-[#ea580c] transition-colors flex items-center justify-center cursor-pointer shrink-0">
               Search
             </button>
           </div>
