@@ -68,12 +68,12 @@ export default function ServiceDetails({ params }) {
         <div className="max-w-7xl mx-auto px-4 md:px-8">
           
           {/* Breadcrumb */}
-          <div className="flex items-center space-x-2 text-[14px] text-gray-500 mb-6">
-            <Link href="/" className="hover:text-[#f97316] transition-colors">Home</Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link href="/services" className="hover:text-[#f97316] transition-colors">All Services</Link>
-            <ChevronRight className="w-4 h-4" />
-            <span className="text-[#131a31] font-medium truncate">{data.mainHeading}</span>
+          <div className="flex items-center flex-nowrap space-x-2 text-[14px] text-gray-500 mb-6 overflow-hidden">
+            <Link href="/" className="hover:text-[#f97316] transition-colors whitespace-nowrap shrink-0">Home</Link>
+            <ChevronRight className="w-4 h-4 shrink-0" />
+            <Link href="/services" className="hover:text-[#f97316] transition-colors whitespace-nowrap shrink-0">All Services</Link>
+            <ChevronRight className="w-4 h-4 shrink-0" />
+            <span className="text-[#131a31] font-medium truncate min-w-0 whitespace-nowrap">{data.mainHeading}</span>
           </div>
 
           <div className="flex flex-col lg:flex-row gap-8 relative">

@@ -50,7 +50,9 @@ export default function ConsultationForm({ isPopup = false }) {
             </label>
             <div className="relative">
               <select className="w-full pl-4 pr-10 py-3 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-[#1572ed]/20 focus:border-[#1572ed] transition-all text-sm appearance-none bg-gray-50/50 text-[#314259]">
-                <option>IEPF Claim</option>
+                <option>Licensing & Registration</option>
+                <option>NOCs &Clearances</option>
+                <option>Company Registration</option>
                 <option>Other Services</option>
               </select>
               <div className="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
@@ -62,10 +64,10 @@ export default function ConsultationForm({ isPopup = false }) {
 
         {/* Checkbox */}
         <div className="flex items-start gap-2 pt-1">
-          <input 
-            type="checkbox" 
-            id="terms" 
-            className="mt-0.5 w-4 h-4 rounded border-gray-300 text-[#1572ed] focus:ring-[#1572ed] cursor-pointer" 
+          <input
+            type="checkbox"
+            id="terms"
+            className="mt-0.5 w-4 h-4 rounded border-gray-300 text-[#1572ed] focus:ring-[#1572ed] cursor-pointer"
             required
           />
           <label htmlFor="terms" className="text-xs text-gray-500 leading-relaxed cursor-pointer select-none">
@@ -81,7 +83,7 @@ export default function ConsultationForm({ isPopup = false }) {
           >
             GET FREE REVIEW
           </button>
-          
+
           <button
             type="button"
             className="w-full bg-white hover:bg-[#f97316] text-[#f97316] hover:text-white border-2 border-[#f97316] font-bold py-3.5 rounded-xl transition-all text-sm flex items-center justify-center gap-2"

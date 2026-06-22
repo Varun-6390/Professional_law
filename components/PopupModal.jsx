@@ -62,8 +62,8 @@ export default function PopupModal() {
               <X size={20} strokeWidth={2.5} />
             </button>
 
-            {/* Left Section */}
-            <div className="w-full md:w-[45%] lg:w-[40%] bg-[#1a2b3c] p-8 md:p-10 flex flex-col text-white relative overflow-hidden shrink-0">
+            {/* Left Section - hidden on mobile */}
+            <div className="hidden md:flex w-full md:w-[45%] lg:w-[40%] bg-[#1a2b3c] p-8 md:p-10 flex-col text-white relative overflow-hidden shrink-0">
               {/* Background Effects */}
               <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl -mr-20 -mt-20 pointer-events-none" />
               <div className="absolute bottom-0 left-0 w-64 h-64 bg-[#f97316]/10 rounded-full blur-3xl -ml-20 -mb-20 pointer-events-none" />
