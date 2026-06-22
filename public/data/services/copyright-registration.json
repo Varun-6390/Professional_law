@@ -1,0 +1,330 @@
+{
+  "slug": "copyright-registration",
+  "title": "Copyright Registration",
+  "hero": {
+    "headline": "Safeguard Your Creativity with Copyright Registration",
+    "subtext": "Protect your original work legally with expert copyright services from Professionals Law.",
+    "cta": "Protect My Work"
+  },
+  "mainHeading": "Copyright Registration Online – Apply Copyright Licence in India",
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "Copyright is a right given by the law to creators of literary, dramatic, musical and artistic works and producers of cinematograph films and sound recordings. Under the Copyright Act, 1957, creators are given sole rights over the reproduction, adaptation and distribution of their work. Copyright does not protect ideas but protects the expression of those ideas. At Professionals Law, we help authors, artists, businesses and content creators secure their intellectual assets through efficient copyright registration. Professionals Law ensures that your work is protected under Indian law and helps you establish legal proof of ownership."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "In modern digital arena, creative works can be easily copied, shared or misused without the consent of its creator. Copyright registration provides a legal shield against such unauthorized use and infringement so that the creator can protect his creative ideas. It acts as prima facie evidence in the court of law and simplifies legal proceedings in the event of discourse, disputes or wrangles. Professionals Law provides comprehensive assistance to ensure that your original work receives due recognition and protection from infringement, piracy and duplication."
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "",
+        "criteria": [
+          "Any person or entity who has created an original literary, dramatic, musical, artistic, cinematographic or software work is eligible for copyright registration, including:",
+          "Individuals",
+          "Companies",
+          "LLPs or Partnerships",
+          "NGOs",
+          "Government bodies",
+          "Educational institutions"
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Legal Protection:",
+        "description": "Registered copyright serves as concrete proof of ownership and allows you to take swift legal action in case of infringement."
+      },
+      {
+        "title": "Exclusive Rights:",
+        "description": "It grants you exclusive rights to reproduce, distribute, translate, perform and license the work."
+      },
+      {
+        "title": "Economic Benefits:",
+        "description": "Copyright can be monetized through licensing, royalties, assignments and transfers, offering a long-term revenue stream."
+      },
+      {
+        "title": "Global Recognition:",
+        "description": "Copyright protection is recognized in most countries through international treaties. Professionals Law helps facilitate this globally."
+      },
+      {
+        "title": "Enhances Market Value:",
+        "description": "Owning registered copyrights improves your brand's professional credibility and increases the value of your creative assets."
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "Name, address and nationality of the applicant",
+          "Details of the author/creator (if different)",
+          "Nature and title of the work",
+          "Class and description of the work",
+          "Language of the work",
+          "Date of creation and publication (if applicable)",
+          "Two copies of the work (soft or hard)",
+          "No Objection Certificate (if applicable)",
+          "Power of Attorney"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Copyright Registration",
+    "body": [
+      {
+        "step": "Consultation & Work Classification",
+        "description": "Professionals Law’s experts classify your work into the correct copyright category (literary, artistic, musical, software, etc.)"
+      },
+      {
+        "step": "Application Filing (Form XIV)",
+        "description": "We draft and file the copyright application online along with the required documents and copies of the work."
+      },
+      {
+        "step": "Diary Number Issuance",
+        "description": "Once submitted, a diary number is issued by the Copyright Office for tracking purposes."
+      },
+      {
+        "step": "Waiting Period (30 Days)",
+        "description": "A mandatory 30-day period is given for objections by third parties, if any."
+      },
+      {
+        "step": "Examination by Registrar",
+        "description": "If no objection is filed, the application proceeds to examination. In case of objection, a hearing is scheduled."
+      },
+      {
+        "step": "Copyright Certificate Issuance",
+        "description": "Upon approval, the Registrar of Copyrights issues a registration certificate, giving legal proof of ownership."
+      }
+    ]
+  },
+  "image": "/public/assets/services/copyright.png",
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Application Filing & Diary Number",
+        "description": "1 to 2 working days"
+      },
+      {
+        "title": "Waiting Period for Objection",
+        "description": "30 days"
+      },
+      {
+        "title": "Examination & Registration Certificate",
+        "description": "2 to 5 months (depending on objections, if any)"
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "Infringement Penalties",
+        "description": "Copyright infringement may result in civil and criminal liability, including fines from ₹50,000 to ₹2,00,000 and imprisonment up to 3 years."
+      },
+      {
+        "title": "False Representation",
+        "description": "Submitting false claims can attract penalties and potential legal action."
+      },
+      {
+        "title": "Unauthorized Use",
+        "description": "Using copyrighted work without permission can lead to injunctions, loss of profits or damage claims."
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 1999,
+    "governmentFee": 500,
+    "otherCharges": 500,
+    "total": 4999,
+    "currency": "INR"
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "body": [
+      {
+        "question": "What can be copyrighted?",
+        "answer": "Literary works, musical compositions, films, sound recordings, software, artworks, scripts and photographs, among others."
+      },
+      {
+        "question": "Can unpublished work be copyrighted?",
+        "answer": "Yes, copyright protects both published and unpublished works."
+      },
+      {
+        "question": "How long is copyright valid?",
+        "answer": "Generally, copyright lasts for the lifetime of the author plus 60 years after their death."
+      },
+      {
+        "question": "Can I copyright my software code?",
+        "answer": "Yes, software (source code and object code) is considered a literary work under copyright law."
+      },
+      {
+        "question": "What’s the difference between copyright and trademark?",
+        "answer": "Copyright protects creative expressions, while trademark protects brand identity like logos and names."
+      },
+      {
+        "question": "Is copyright registration mandatory?",
+        "answer": "While not mandatory, registration provides legal proof and simplifies enforcement during infringement cases."
+      },
+      {
+        "question": "Can two people hold a joint copyright?",
+        "answer": "Yes, joint authorship is allowed and both parties hold equal rights unless otherwise agreed."
+      },
+      {
+        "question": "What happens if someone copies my work?",
+        "answer": "With a registered copyright, you can issue a cease & desist notice or file a suit for infringement. Professionals Law can assist in both."
+      },
+      {
+        "question": "Can I transfer or sell my copyright?",
+        "answer": "Yes, copyright can be assigned or licensed for commercial purposes. Professionals Law drafts proper agreements for such transfers."
+      }
+    ]
+  },
+  "connectedServices": [
+    {
+      "name": "Trademark Registration",
+      "url": "/services/trademark-registration"
+    },
+    { "name": "Patent Filing", "url": "/services/patent-registration" }
+  ],
+  "keywords": [
+    "Copyright Registration",
+    "Copyright Licence India",
+    "Online Copyright Registration",
+    "Protect Creative Work"
+  ],
+  "metaTitle": "Copyright Registration Online India | Apply Copyright License",
+  "metaDescription": "Register copyright online in India with expert agents. Apply copyright licence for brand name, logo, music, YouTube content & company name at low cost.",
+  "openGraph": {
+    "title": "Copyright Registration Online India | Apply Copyright License",
+    "description": "Register copyright online in India with expert agents. Apply copyright licence for brand name, logo, music, YouTube content & company name at low cost.",
+    "url": "https://www.professionalslaw.com/services/copyright-registration",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Copyright Registration Online India | Apply Copyright License",
+    "description": "Register copyright online in India with expert agents. Apply copyright licence for brand name, logo, music, YouTube content & company name at low cost.",
+    "images": [
+      "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"
+    ]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/copyright-registration"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/copyright-registration",
+    "serviceType": "Copyright Registration",
+    "name": "Copyright Registration in India",
+    "url": "https://www.professionalslaw.com/services/copyright-registration",
+    "description": "Register copyright online in India with expert agents. Apply copyright licence for brand name, logo, music, YouTube content & company name at low cost.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/copyright-registration",
+      "priceCurrency": "INR",
+      "price": "4999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Copyright Registration — Steps",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Consultation & Work Classification"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Application Filing (Form XIV)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Diary Number Issuance" }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Waiting Period (30 Days)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Examination by Registrar"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Copyright Certificate Issuance"
+          }
+        }
+      ]
+    },
+    "serviceOutput": "Copyright Registration Certificate",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/copyright-registration"
+    }
+  }
+}

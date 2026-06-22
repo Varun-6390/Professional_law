@@ -1,0 +1,309 @@
+{
+  "slug": "private-limited-company-registration-india",
+  "title": "Private Limited Company Registration",
+  "keywords": [
+    "private limited company registration",
+    "company registration",
+    "pvt ltd registration",
+    "private limited company incorporation"
+  ],
+  "metaTitle": "Private Limited Company Registration | Register Pvt Ltd Online",
+  "metaDescription": "Register a private limited company online in India with expert consultants. New Pvt Ltd registration, formation & cost-effective compliance support.",
+  "openGraph": {
+    "title": "Private Limited Company Registration | Register Pvt Ltd Online",
+    "description": "Register a private limited company online in India with expert consultants. New Pvt Ltd registration, formation & cost-effective compliance support.",
+    "url": "https://www.professionalslaw.com/services/private-limited-company-registration-india",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/assets/images/private-limited-company-registration.jpg",
+        "width": 1200,
+        "height": 630,
+        "alt": "Private Limited Company Registration"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Private Limited Company Registration | Register Pvt Ltd Online",
+    "description": "Register a private limited company online in India with expert consultants. New Pvt Ltd registration, formation & cost-effective compliance support.",
+    "images": [
+      "https://www.professionalslaw.com/assets/images/private-limited-company-registration.jpg"
+    ]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/private-limited-company-registration-india"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/private-limited-company-registration-india",
+    "serviceType": "Private Limited Company Registration",
+    "name": "Private Limited Company Registration in India",
+    "url": "https://www.professionalslaw.com/services/private-limited-company-registration-india",
+    "description": "Register a private limited company online in India with expert consultants. New Pvt Ltd registration, formation & cost-effective compliance support.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/private-limited-company-registration-india",
+      "priceCurrency": "INR",
+      "price": "8499",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Private Limited Company Registration — Steps",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Name Approval via SPICe+"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Digital Signature Certificate (DSC) application"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Director Identification Number (DIN) assignment"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Filing incorporation forms with e‑MoA & e‑AoA"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Issuance of Certificate of Incorporation"
+          }
+        }
+      ]
+    },
+    "serviceOutput": "Certificate of Incorporation",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/private-limited-company-registration-india"
+    }
+  },
+  "mainHeading": "Private Limited Company Registration Online – Register Pvt Ltd Company",
+  "hero": {
+    "headline": "Start Your Private Limited Company with Confidence",
+    "subtext": "Incorporate your business with ease and full compliance under the Companies Act, 2013 with Professionals Law’s expert assistance."
+  },
+  "introduction": {
+    "heading": "Introduction & Compliance",
+    "body": [
+      "A Private Limited Company is one of the most popular business structures in India, governed by the Companies Act, 2013 and regulated by the Ministry of Corporate Affairs (MCA). ",
+      "It provides its shareholders with limited liability protection, it is a separate legal entity and is suitable for businesses looking to raise investment and grow.",
+      "These compliance's include filing of annual documentations, conduction of board meetings, maintenance of books as per the statutory requirements and following other corporate governance standards."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "A Private Limited Company Registration is what makes the most sense when you want to be taken seriously as a business, seek legal identity, credibility, scale-ability and limited liability. It enables businesses to court investors or grow operations and it is the passport they must present when applying for loans or government tenders.",
+      "Its dynamic and professional image make this layout suitable for new businesses and growing businesses."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits & Advantages",
+    "body": [
+      {
+        "title": "Limited Liability",
+        "description": "Shareholders are only liable to the extent of their shareholding. This means their personal assets are protected from the company’s debts or legal obligations."
+      },
+      {
+        "title": "Separate Legal Entity",
+        "description": "A private limited company is recognized as a distinct legal entity. It can own property, open bank accounts, enter contracts and sue or be sued in its own name."
+      },
+      {
+        "title": "Credibility",
+        "description": "Being a registered entity under the Companies Act boosts business reputation. It builds trust among customers, suppliers, lenders and potential investors."
+      },
+      {
+        "title": "Funding Access",
+        "description": "Private limited companies are the preferred structure for raising capital from angel investors, venture capitalists and financial institutions. The ability to issue shares makes funding flexible and scalable."
+      },
+      {
+        "title": "Perpetual Succession",
+        "description": "The company remains in existence regardless of changes in ownership or management. This ensures continuity and long-term business stability."
+      },
+      {
+        "title": "Tax Advantages",
+        "description": "Private limited companies can benefit from various tax deductions and exemptions, especially under schemes like Startup India. This can significantly reduce the tax burden during early growth stages."
+      },
+      {
+        "title": "Transferability",
+        "description": "Shares of a private limited company can be transferred easily among existing or new shareholders.  This allows for seamless changes in ownership without affecting the company’s operations."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "Basic Requirements",
+        "criteria": [
+          "Minimum of 2 directors (at least one must be a resident of India)",
+          "Minimum of 2 shareholders (can be the same as directors)",
+          "A registered office address in India",
+          "Unique company name not similar to existing companies or trademarks"
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "For Directors/Shareholders",
+        "documents": [
+          "Email ID",
+          "Mobile number",
+          "Passport-size photographs",
+          "PAN Card (mandatory)",
+          "Aadhaar Card/Passport/Voter ID/Driving License",
+          "Proof of address (bank statement/electricity bill not older than 2 months)"
+        ]
+      },
+      {
+        "applicantType": "For Registered Office",
+        "documents": [
+          "Rent agreement (if rented)",
+          "NOC from owner",
+          "Utility bill (electricity/gas/water not older than 2 months)"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Getting Registration",
+    "body": [
+      {
+        "step": "Name Approval",
+        "description": "Apply for name reservation via SPICe+ service."
+      },
+      {
+        "step": "Digital Signature (DSC)",
+        "description": "Obtain DSCs for all proposed directors and subscribers."
+      },
+      {
+        "step": "Director Identification Number (DIN)",
+        "description": "Assigned through SPICe+ form during incorporation."
+      },
+      {
+        "step": "Filing Incorporation Forms",
+        "description": "Submission of SPICe+ along with e-MoA (Memorandum of Association) and e-AoA (Articles of Association)."
+      },
+      {
+        "step": "Issuance of Certificate",
+        "description": "MCA issues Certificate of Incorporation with CIN and PAN/TAN."
+      }
+    ]
+  },
+  "timelines": {
+    "heading": "Timelines",
+    "body": [{ "title": " ", "description": "10-15 working days" }]
+  },
+  "faqs": {
+    "body": [
+      {
+        "question": "Can a single person register a Private Limited Company?",
+        "answer": "No, a minimum of two shareholders and two directors is mandatory."
+      },
+      {
+        "question": "Is it necessary to have an office address for registration?",
+        "answer": "Yes, a valid registered office address is required during incorporation."
+      },
+      {
+        "question": "Can NRIs or foreign nationals be directors/shareholders?",
+        "answer": "Yes, they can be, subject to at least one Indian resident director."
+      },
+      {
+        "question": "What is the minimum capital required to start a private company?",
+        "answer": "There is no minimum capital requirement. You can start with even ₹1."
+      },
+      {
+        "question": "Do I need to visit any government office for registration?",
+        "answer": "No, the entire process is online through the MCA portal."
+      },
+      {
+        "question": "What is the validity of a Private Limited Company registration?",
+        "answer": "It is valid for a lifetime, subject to regular compliance."
+      },
+      {
+        "question": "Can I convert my existing sole proprietorship to a Private Limited Company?",
+        "answer": "Yes, the conversion is possible by following the MCA-prescribed procedure."
+      },
+      {
+        "question": "Is audit mandatory for a Private Limited Company?",
+        "answer": "Yes, even if there is no turnover, a statutory audit is mandatory."
+      },
+      {
+        "question": "What are the annual compliance requirements?",
+        "answer": "Annual return filing, financial statement submission, board meetings, ROC filings, tax return filing etc. are required."
+      }
+    ]
+  },
+  "connectedServices": [
+    {
+      "name": "Public Limited Company",
+      "url": "/services/public-limited-company"
+    },
+    {
+      "name": "Limited Liability Partnership",
+      "url": "/services/llp-registration"
+    },
+    {
+      "name": "Non-Banking Financial Company Registration ",
+      "url": "/services/nbfc-registration"
+    },
+    {
+      "name": "Accounting & Bookkeeping",
+      "url": "/services/accounting-and-bookkeeping"
+    },
+    { "name": "Secretarial Records", "url": "/services/secretarial-records" }
+  ],
+  "pricing": {
+    "total": "8,499"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "slug": "gst-registration-online",
+  "title": "GST Registration Online",
+  "hero": {
+    "headline": "Fast & Reliable GST Registration with Professionals Law",
+    "subtext": "GSTIN in 5–7 days. Trusted by startups, SMEs & e-commerce sellers.",
+    "cta": "Apply Now"
+  },
+  "mainHeading": "GST Registration Online in India – Apply for GST Certificate Easily",
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "Goods and Services Tax (GST) is a single indirect tax applied on the supply of goods and services throughout India. Enacted under the GST Act 2017, it replaced various state and central taxes and implemented uniform tax system. GST Registration is compulsory for entities over the prescribed turnover limits special interstate and e-commerce businesses. Professionals Law provide complete assistance for GST Registration within the country, ensuring seamless compliance with all legal provisions under the GST regime."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "GST Registration is legally required for businesses crossing the specified turnover threshold or involved in certain categories of trade. It enables businesses to collect tax from customers and claim Input Tax Credit (ITC). Professionals Law assists entities and businesses to properly and expediently register in order to mitigate risks of non-compliance, penalties and loss of tax benefits."
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "",
+        "criteria": [
+          "Businesses with annual aggregate turnover exceeding:",
+          "₹40 lakhs for goods (₹20 lakhs in special category states)",
+          "₹20 lakhs for services (₹10 lakhs in special category states)",
+          "Interstate suppliers of goods/services",
+          "E-commerce sellers and aggregators",
+          "Businesses registered under previous tax laws (VAT, Excise, Service Tax)",
+          "Casual taxable persons or non-resident taxable persons",
+          "Input Service Distributors (ISD) and agents"
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Legal Recognition and Compliance",
+        "description": "GST registration legally recognizes a business under the tax system and avoids legal complications or penalties related to tax evasion."
+      },
+      {
+        "title": "Input Tax Credit (ITC) Eligibility",
+        "description": "Registered businesses can claim input tax credit on purchases, reducing the overall cost of goods or services."
+      },
+      {
+        "title": "Facilitates Interstate Sales",
+        "description": "With GST registration, businesses can sell goods and services across states without restrictions or additional taxes."
+      },
+      {
+        "title": "Improves Credibility with Buyers",
+        "description": "GSTIN on invoices increases transparency and builds trust with customers, vendors and corporate clients."
+      },
+      {
+        "title": "Mandatory for E-commerce Sellers",
+        "description": "GST registration is essential to sell on online platforms like Amazon, Flipkart and others."
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "PAN of the applicant/business",
+          "KYC Documents of the applicant (Email id, Mobile No. PAN, Aadhaar, Voter id, Bank Statement etc.)",
+          "Passport-size photograph",
+          "Business address proof (utility bill, rent agreement, etc.)",
+          "Bank account details (cancelled cheque or bank statement)",
+          "Digital Signature (for companies and LLPs)",
+          "Authorization letter or board resolution"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Applying",
+    "body": [
+      {
+        "step": "Consultation & Assessment",
+        "description": "Professionals Law assesses the business model and turnover threshold for applicability."
+      },
+      {
+        "step": "Document Collection",
+        "description": "We collect, verify and organize the necessary documents."
+      },
+      {
+        "step": "Application Filing",
+        "description": "Professionals Law submits the GST REG-01 form online on the GST portal with proper classification of business."
+      },
+      {
+        "step": "ARN Generation",
+        "description": "An Application Reference Number (ARN) is generated for tracking purposes."
+      },
+      {
+        "step": "Verification & Approval",
+        "description": "If required, additional documents or clarification are provided. On successful verification, the GSTIN is issued."
+      },
+      {
+        "step": "Certificate Download & Activation",
+        "description": "The GST certificate is downloaded and shared with the client for display and use in invoicing."
+      }
+    ]
+  },
+  "image": "/public/assets/services/gst.png",
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Document Collection & Preparation",
+        "description": "1 to 2 working days"
+      },
+      {
+        "title": "Application Filing",
+        "description": "Within 1 day after document verification"
+      },
+      {
+        "title": "GSTIN Approval",
+        "description": "3 to 7 working days (subject to portal response and additional queries)"
+      },
+      {
+        "title": "Total Estimated Time",
+        "description": "5 to 7 working days*"
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "₹10,000 or 10% of the tax due (whichever is higher) for non-registration despite liability",
+        "description": ""
+      },
+      {
+        "title": "₹25,000 for furnishing false information",
+        "description": ""
+      },
+      {
+        "title": "₹100/day (up to ₹5,000) for delayed filing of GST returns",
+        "description": ""
+      },
+      {
+        "title": "Seizure of goods and prosecution in case of fraudulent activities",
+        "description": ""
+      },
+      {
+        "title": "Loss of Input Tax Credit if GST is not charged properly",
+        "description": ""
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 1499,
+    "governmentFee": 0,
+    "otherCharges": 500,
+    "total": 2999,
+    "currency": "INR"
+  },
+  "faqs": {
+    "heading": "FAQs",
+    "body": [
+      {
+        "question": "Is GST registration mandatory for all businesses?",
+        "answer": "No, only businesses crossing the threshold turnover or involved in specific activities like interstate supply or e-commerce need to register."
+      },
+      {
+        "question": "Can I voluntarily apply for GST registration?",
+        "answer": "Yes, businesses can apply voluntarily even if are below the threshold, especially to claim ITC and gain credibility."
+      },
+      {
+        "question": "Is a separate GST registration required for each state?",
+        "answer": "Yes, businesses operating in multiple states need to register separately in each state."
+      },
+      {
+        "question": "What is a GSTIN?",
+        "answer": "GSTIN is a unique 15-digit identification number assigned upon successful GST registration."
+      },
+      {
+        "question": "Can I use one GST registration for all branches?",
+        "answer": "If branches are within the same state and under the same PAN, they can be included under one registration. Otherwise, multiple registrations are required."
+      },
+      {
+        "question": "What are composite and regular GST schemes?",
+        "answer": "The regular scheme allows ITC claims and requires monthly filings. The composition scheme offers lower tax rates but restricts ITC and is suitable for small businesses."
+      },
+      {
+        "question": "Is digital signature mandatory?",
+        "answer": "Yes, for companies and LLPs, a digital signature is mandatory while filing the application."
+      },
+      {
+        "question": "What happens if I delay registration beyond the threshold date?",
+        "answer": "You may face penalties and any GST collected during the period may become unrecoverable without proper registration."
+      },
+      {
+        "question": "Can Professionals Law help with GST amendments and return filings?",
+        "answer": "Yes, Professionals Law offers comprehensive GST services including registration, amendment, return filing, audits and compliance management."
+      }
+    ]
+  },
+  "connectedServices": [
+  { "name": "GST Return", "url": "/services/gst-returns" },
+  { "name": "Trademark Application", "url": "/services/trademark-application" },
+  { "name": "Partnership", "url": "/services/partnership-firm-registration-india" },
+  { "name": "Private Limited Company", "url": "/services/private-limited-company-registration-india" },
+  { "name": "MSME Registration", "url": "/services/msme-registration-india" },
+  { "name": "Sole Proprietorship", "url": "/services/proprietorship-registration-india" }
+],
+  "keywords": ["GST Registration", "GST Registration Online", "GST Certificate", "GST Number"],
+  "metaTitle": "GST Registration Online India | Apply for GST Certificate",
+  "metaDescription": "Apply for GST Registration online in India with complete support. Know GST registration fees, documents required, MSME eligibility, GST number & return filing process.",
+  "openGraph": {
+    "title": "GST Registration Online India | Apply for GST Certificate",
+    "description": "Apply for GST Registration online in India with complete support. Know GST registration fees, documents required, MSME eligibility, GST number & return filing process.",
+    "url": "https://www.professionalslaw.com/services/gst-registration-online",
+    "type": "website",
+    "siteName": "Professionals Law",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "GST Registration Online India | Apply for GST Certificate",
+    "description": "Apply for GST Registration online in India with complete support. Know GST registration fees, documents required, MSME eligibility, GST number & return filing process.",
+    "images": ["https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/gst-registration-online"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/gst-registration-online",
+    "serviceType": "GST Registration",
+    "name": "GST Registration Online in India",
+    "url": "https://www.professionalslaw.com/services/gst-registration-online",
+    "description": "Apply for GST Registration online in India with complete support. Know GST registration fees, documents required, MSME eligibility, GST number & return filing process.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/gst-registration-online",
+      "priceCurrency": "INR",
+      "price": "2999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "GST Registration — Steps",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Consultation & Assessment" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Document Collection" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Application Filing" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "ARN Generation" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Certificate Download & Activation" } }
+      ]
+    },
+    "serviceOutput": "GST Registration Certificate (GSTIN)",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/gst-registration-online"
+    }
+  }
+}

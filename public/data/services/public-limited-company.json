@@ -1,0 +1,262 @@
+{
+  "slug": "public-limited-company",
+  "keywords": ["Public Limited Company", "Public Limited Company Registration", "Public Company Registration India", "Company Registration Online"],
+  "title": "Public Limited Company",
+  "metaTitle": "Public Limited Company Registration Online in India | Professionals Law",
+  "metaDescription": "Register a Public Limited Company in India with Professionals Law. Know eligibility, rules, process, filing, compliance requirements & registration cost online.",
+  "mainHeading": "Public Limited Company Registration in India",
+  "hero": {
+    "headline": "Incorporate Your Public Limited Company with Expert Guidance",
+    "subtext": "Raise capital from the public, enhance credibility, and operate with full compliance under the Companies Act, 2013 with Professionals Law's support."
+  },
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "A Public Limited Company is a type of company that offers its shares to the general public and can be listed on a stock exchange. It is governed by the Companies Act, 2013 and regulated by the Ministry of Corporate Affairs (MCA) and Securities and Exchange Board of India (SEBI) in case of listed companies.",
+      "Public companies are subject to strict compliance norms, including mandatory disclosures, regular filing of annual returns, financial statements, board meetings and shareholder meetings.",
+      "Due to its open structure, public companies must maintain high transparency and corporate governance standards."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "Registering a Public Limited Company is essential for businesses that require significant capital to grow and expand.",
+      "It allows companies to raise funds from the public through equity or debt instruments and attract large-scale investments.",
+      "It also helps build trust among stakeholders, customers and financial institutions due to its regulated and transparent framework."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Contribution from Public",
+        "description": "Public companies can raise large amounts of capital from the public, institutional investors and the stock market."
+      },
+      {
+        "title": "Limited Liability",
+        "description": "Shareholders' liability is limited to the amount invested, protecting their personal assets."
+      },
+      {
+        "title": "Wider Reach & Credibility",
+        "description": "Being publicly listed adds credibility, brand visibility and confidence among investors, customers and partners."
+      },
+      {
+        "title": "Perpetual Succession",
+        "description": "The company continues to exist irrespective of changes in ownership or management."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "Basic Requirements",
+        "criteria": [
+          "Minimum 3 Directors (at least one must be a resident of India).",
+          "Minimum 7 Shareholders.",
+          "Must have a unique name approved by MCA.",
+          "Registered office address in India.",
+          "Digital Signature Certificates (DSC) and Director Identification Numbers (DIN) for all proposed directors."
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "For Directors/Shareholders",
+        "documents": [
+          "Email ID",
+          "Mobile number",
+          "PAN Card (mandatory for Indian nationals)",
+          "Passport (mandatory for foreign nationals)",
+          "Aadhar Card / Voter ID / Driving License",
+          "Passport-size photograph",
+          "Address proof (latest utility bill or bank statement)"
+        ]
+      },
+      {
+        "applicantType": "For Registered Office",
+        "documents": [
+          "Rent Agreement or Property Ownership Proof",
+          "NOC from property owner",
+          "Utility bill (not older than 2 months)"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Getting Registration",
+    "body": [
+      {
+        "step": "Digital Signature (DSC)",
+        "description": "Obtain DSCs for all proposed directors."
+      },
+      {
+        "step": "Director Identification Number (DIN)",
+        "description": "Apply for DIN through the SPICe+ form."
+      },
+      {
+        "step": "Name Reservation",
+        "description": "Reserve company name using the RUN (Reserve Unique Name) service."
+      },
+      {
+        "step": "Filing SPICe+ Form",
+        "description": "Submit SPICe+ Part A and B along with MOA, AOA, AGILE-PRO and other documents."
+      },
+      {
+        "step": "PAN & TAN Application",
+        "description": "Done automatically within the registration form."
+      },
+      {
+        "step": "Certificate of Incorporation",
+        "description": "Issued by ROC along with PAN and TAN."
+      }
+    ]
+  },
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": " ",
+        "description": "10 to 15 working days, subject to government approvals, name availability and document accuracy."
+      }
+    ]
+  },
+  "faqs": {
+    "body": [
+      {
+        "question": "Is it mandatory for a public limited company to be listed on a stock exchange?",
+        "answer": "No, a public company may or may not be listed. Listing is optional but enables the company to raise capital from the public market."
+      },
+      {
+        "question": "How many directors and shareholders are required?",
+        "answer": "A minimum of 3 directors and 7 shareholders are required."
+      },
+      {
+        "question": "Can NRIs or foreign nationals become directors or shareholders?",
+        "answer": "Yes, NRIs and foreign nationals can be directors or shareholders, subject to conditions under FEMA and RBI guidelines."
+      },
+      {
+        "question": "What is the minimum capital requirement for a public limited company?",
+        "answer": "There is no minimum paid-up capital requirement, but ₹5 lakh is recommended for practical purposes and credibility."
+      },
+      {
+        "question": "What is the liability of shareholders in a public limited company?",
+        "answer": "Shareholders are liable only to the extent of their shareholding."
+      },
+      {
+        "question": "Can a private limited company be converted into a public limited company?",
+        "answer": "Yes, it can be converted after complying with legal procedures and approvals."
+      },
+      {
+        "question": "What are the post-incorporation compliances for a public limited company?",
+        "answer": "Filing INC-20A, holding board meetings, maintaining statutory registers, appointing an auditor and timely filing of returns are mandatory."
+      },
+      {
+        "question": "Can shares of a public limited company be traded freely?",
+        "answer": "Yes, in listed public companies, shares can be freely traded on stock exchanges."
+      },
+      {
+        "question": "Is audit compulsory for public limited companies?",
+        "answer": "Yes, every public limited company must appoint a statutory auditor and undergo an annual audit."
+      }
+    ]
+  },
+  "connectedServices": [
+    { "name": "Private Limited Company", "url": "/services/private-limited-company-registration-india" },
+    { "name": "Limited Liability Partnership", "url": "/services/llp-registration" },
+    { "name": "Non-Banking Financial Company Registration ", "url": "/services/nbfc-registration" },
+    { "name": "Accounting & Bookkeeping", "url": "/services/accounting-and-bookkeeping" },
+    { "name": "Secretarial Records", "url": "/services/secretarial-records" }
+  ],
+  "pricing": {
+    "total": "14,999"
+  }
+    
+,
+  "openGraph": {
+    "title": "Public Limited Company Registration Online in India | Professionals Law",
+    "description": "Register a Public Limited Company in India with Professionals Law. Know eligibility, rules, process, filing, compliance requirements & registration cost online.",
+    "url": "https://www.professionalslaw.com/services/public-limited-company",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Public Limited Company Registration Online in India | Professionals Law",
+    "description": "Register a Public Limited Company in India with Professionals Law. Know eligibility, rules, process, filing, compliance requirements & registration cost online.",
+    "images": ["https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/public-limited-company"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/public-limited-company",
+    "serviceType": "Public Limited Company Registration",
+    "name": "Public Limited Company Registration India",
+    "url": "https://www.professionalslaw.com/services/public-limited-company",
+    "description": "Register a Public Limited Company in India with Professionals Law. Know eligibility, rules, process, filing, compliance requirements & registration cost online.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/public-limited-company",
+      "priceCurrency": "INR",
+      "price": "14999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Public Limited Company Registration — Steps",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Digital Signature (DSC)" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Director Identification Number (DIN)" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Name Reservation" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Filing SPICe+ Form" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Certificate of Incorporation" } }
+      ]
+    },
+    "serviceOutput": "Certificate of Incorporation",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/public-limited-company"
+    }
+  }
+}

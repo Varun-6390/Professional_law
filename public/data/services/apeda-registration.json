@@ -1,0 +1,274 @@
+{
+  "slug": "apeda-registration",
+  "keywords": ["APEDA Registration", "APEDA Licence", "APEDA Registration Online", "RCMC Certificate"],
+  "metaTitle": "APEDA Registration Online | APEDA Licence Registration",
+  "metaDescription": "Apply for APEDA Registration online in India with expert consultant support. Get APEDA licence registration, fees details & end-to-end registration service.",
+  "openGraph": {
+    "title": "APEDA Registration Online | APEDA Licence Registration",
+    "description": "Apply for APEDA Registration online in India with expert consultant support. Get APEDA licence registration, fees details & end-to-end registration service.",
+    "url": "https://www.professionalslaw.com/services/apeda-registration",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "APEDA Registration Online | APEDA Licence Registration",
+    "description": "Apply for APEDA Registration online in India with expert consultant support. Get APEDA licence registration, fees details & end-to-end registration service.",
+    "images": ["https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"]
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/apeda-registration",
+    "serviceType": "APEDA Registration & RCMC",
+    "name": "APEDA Registration in India",
+    "url": "https://www.professionalslaw.com/services/apeda-registration",
+    "description": "Apply for APEDA Registration online in India with expert consultant support. Get APEDA licence registration, fees details & end-to-end registration service.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/apeda-registration",
+      "priceCurrency": "INR",
+      "price": "4999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "APEDA Registration — Steps",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Document Preparation" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Online Application" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Payment of Fees" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Verification" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Certificate Issuance" } }
+      ]
+    },
+    "serviceOutput": "APEDA Registration Certificate (RCMC)",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/apeda-registration"
+    }
+  },
+  "schemaScriptTag": "<script type=\"application/ld+json\">{\\n  \\\"@context\\\": \\\"https://schema.org\\\",\\n  \\\"@type\\\": \\\"Service\\\",\\n  \\\"@id\\\": \\\"https://www.professionalslaw.com/services/apeda-registration#service\\\",\\n  \\\"serviceType\\\": \\\"APEDA RCMC Registration\\\",\\n  \\\"name\\\": \\\"APEDA Registration in India\\\",\\n  \\\"url\\\": \\\"https://www.professionalslaw.com/services/apeda-registration\\\",\\n  \\\"description\\\": \\\"Get APEDA Registration (RCMC) in India with Professionals Law. Expert assistance for exporter registration with APEDA, documentation, application filing, and approvals.\\\",\\n  \\\"provider\\\": {\\n    \\\"@type\\\": \\\"Organization\\\",\\n    \\\"name\\\": \\\"Professionals Law\\\",\\n    \\\"url\\\": \\\"https://www.professionalslaw.com/\\\",\\n    \\\"logo\\\": \\\"https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128\\\",\\n    \\\"email\\\": \\\"info@professionalslaw.com\\\",\\n    \\\"telephone\\\": [\\\"011-41734240\\\", \\\"+91 99997 04687\\\"],\\n    \\\"address\\\": {\\n      \\\"@type\\\": \\\"PostalAddress\\\",\\n      \\\"streetAddress\\\": \\\"T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka\\\",\\n      \\\"addressLocality\\\": \\\"New Delhi\\\",\\n      \\\"addressRegion\\\": \\\"Delhi\\\",\\n      \\\"postalCode\\\": \\\"110075\\\",\\n      \\\"addressCountry\\\": \\\"IN\\\"\\n    },\\n    \\\"sameAs\\\": [\\n      \\\"https://www.facebook.com/professionalslaw\\\",\\n      \\\"https://www.instagram.com/professionalslaw\\\",\\n      \\\"https://www.linkedin.com/company/professionals law\\\",\\n      \\\"https://twitter.com/professionals law\\\"\\n    ]\\n  },\\n  \\\"areaServed\\\": {\\n    \\\"@type\\\": \\\"Country\\\",\\n    \\\"name\\\": \\\"India\\\"\\n  },\\n  \\\"offers\\\": {\\n    \\\"@type\\\": \\\"Offer\\\",\\n    \\\"url\\\": \\\"https://www.professionalslaw.com/services/apeda-registration\\\",\\n    \\\"priceCurrency\\\": \\\"INR\\\",\\n    \\\"price\\\": \\\"4999\\\",\\n    \\\"availability\\\": \\\"https://schema.org/InStock\\\"\\n  },\\n  \\\"hasOfferCatalog\\\": {\\n    \\\"@type\\\": \\\"OfferCatalog\\\",\\n    \\\"name\\\": \\\"APEDA Registration — Steps\\\",\\n    \\\"itemListElement\\\": [\\n      { \\\"@type\\\": \\\"Offer\\\", \\\"itemOffered\\\": { \\\"@type\\\": \\\"Service\\\", \\\"name\\\": \\\"Collect export business details and documents\\\" } },\\n      { \\\"@type\\\": \\\"Offer\\\", \\\"itemOffered\\\": { \\\"@type\\\": \\\"Service\\\", \\\"name\\\": \\\"Prepare APEDA RCMC application\\\" } },\\n      { \\\"@type\\\": \\\"Offer\\\", \\\"itemOffered\\\": { \\\"@type\\\": \\\"Service\\\", \\\"name\\\": \\\"Submit application to APEDA portal\\\" } },\\n      { \\\"@type\\\": \\\"Offer\\\", \\\"itemOffered\\\": { \\\"@type\\\": \\\"Service\\\", \\\"name\\\": \\\"Follow-up with APEDA for approval\\\" } },\\n      { \\\"@type\\\": \\\"Offer\\\", \\\"itemOffered\\\": { \\\"@type\\\": \\\"Service\\\", \\\"name\\\": \\\"Issuance of APEDA RCMC certificate\\\" } }\\n    ]\\n  },\\n  \\\"serviceOutput\\\": \\\"APEDA RCMC Certificate\\\",\\n  \\\"mainEntityOfPage\\\": {\\n    \\\"@type\\\": \\\"WebPage\\\",\\n    \\\"@id\\\": \\\"https://www.professionalslaw.com/services/apeda-registration\\\"\\n  }\\n}",
+  "metaTags": "<meta property=\"og:title\" content=\"APEDA Registration in India | Professionals Law Services\" />\n<meta property=\"og:description\" content=\"Get APEDA Registration in India with Professionals Law. Expert support for obtaining APEDA RCMC/exporter certification quickly—ensuring compliance and export readiness.\" />\n<meta property=\"og:url\" content=\"https://www.professionalslaw.com/services/apeda-registration-india\" />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:site_name\" content=\"Professionals Law\" />\n<meta property=\"og:image\" content=\"https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128\" />\n<meta property=\"og:locale\" content=\"en_IN\" />",
+  "title": "APEDA Registration Online",
+  "hero": {
+    "headline": "Export Agri Products with APEDA Certification",
+    "subtext": "Get your APEDA registration with Professionals Law for lifetime export compliance support.",
+    "cta": "Apply Now"
+  },
+  "mainHeading": "APEDA Registration Online – APEDA Licence Registration Service",
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "APEDA Registration APEDA (Agricultural and Processed Food Products Export Development Authority) Registration Act, 1985 APEDA is required for companies / businesses intending to export schedule products. The registration is one time and is further necessary for exporters for getting the benefit /assistance under the Government schemes from time to time. Orders through such registered exporters take priority for sales, delivery & price preference. Quotations from unregistered exporters are not considered for release of orders. Professionals Law assists its clients with a hassle free APEDA registration by taking care of the documentation, application and ongoing compliance requirements."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "APEDA Registration is compulsory for export of scheduled products that covers fruits, vegetables, dairy, poultry, cereals and processed foods etc. It is the necessary target of the export permit and a variety of government subsidy policy support. Businesses are able to guarantee export compliance and easier market access to international markets with Professionals Law."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Export Promotion Support",
+        "description": "APEDA registration allows exporters to avail financial assistance, participate in international trade fairs and access promotional schemes under the Ministry of Commerce."
+      },
+      {
+        "title": "Market Expansion",
+        "description": "It enables registered exporters to expand their business by entering foreign markets with the backing and certification of APEDA, increasing global trust."
+      },
+      {
+        "title": "Training and Guidelines",
+        "description": "APEDA provides guidelines, quality standards and training to exporters, helping them meet global product specifications and boost exports."
+      },
+      {
+        "title": "Networking Opportunities",
+        "description": "Registered exporters get opportunities to connect with international buyers through APEDA’s buyer-seller meets and digital platforms."
+      },
+      {
+        "title": "One-Time Registration",
+        "description": "APEDA registration is a one-time process with lifetime validity, making it a long-term investment for every food/agri exporter."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "",
+        "criteria": [
+          "Any individual, firm, company or organization involved in the export of scheduled products listed under APEDA is eligible.",
+          "The business must have an Import Export Code (IEC) issued by the Director General of Foreign Trade (DGFT).",
+          "The applicant must have a valid PAN and bank account in the name of the business."
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "Copy of Import Export Code (IEC)",
+          "PAN, Aadhaar card of the business or applicant (KYC documents)",
+          "Bank certificate or cancelled cheque",
+          "Address proof of the business (electricity bill, lease agreement, etc.)",
+          "Memorandum of Association (MOA)/Partnership Deed/Trust Deed (as applicable)",
+          "Passport-sized photograph of the applicant",
+          "List of products intended to export",
+          "Professionals Law ensures that all documents are checked and submitted correctly for smooth approval."
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Registration",
+    "body": [
+      {
+        "step": "Document Preparation",
+        "description": "Gather and verify all mandatory documents."
+      },
+      {
+        "step": "Online Application",
+        "description": "Register and apply through the APEDA portal."
+      },
+      {
+        "step": "Payment of Fees",
+        "description": "Pay the prescribed government fee online."
+      },
+      {
+        "step": "Verification",
+        "description": "Application and documents are reviewed by APEDA officials."
+      },
+      {
+        "step": "Certificate Issuance",
+        "description": "On successful verification, APEDA Registration Certificate is issued."
+      },
+      {
+        "step": "",
+        "description": "Professionals Law handles the entire process efficiently, ensuring that your business gets registered without delays or rejections."
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      "Exporters without APEDA registration may be barred from exporting scheduled products.",
+      "Failure to follow quality guidelines and standards may result in blacklisting or suspension from the APEDA database.",
+      "Misrepresentation of information during registration can lead to legal consequences under the APEDA Act."
+    ]
+  },
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Standard Processing Time",
+        "description": "The APEDA Registration process typically takes 5 to 7 working days from the date of submission of the complete application and payment."
+      }
+    ]
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "body": [
+      {
+        "question": "What is APEDA Registration?",
+        "answer": "APEDA Registration is a mandatory requirement for exporters of scheduled agricultural and food products, governed by the APEDA Act, 1985."
+      },
+      {
+        "question": "Is APEDA Registration mandatory for all exporters?",
+        "answer": "It is mandatory only for those exporting products listed under the APEDA schedule."
+      },
+      {
+        "question": "How long is APEDA registration valid?",
+        "answer": "APEDA registration is a one-time registration with lifetime validity, subject to regular business compliance."
+      },
+      {
+        "question": "Can I apply for APEDA without an Import Export Code (IEC)?",
+        "answer": "No, having an IEC is mandatory to apply for APEDA registration."
+      },
+      {
+        "question": "What products are covered under APEDA?",
+        "answer": "Products include fruits, vegetables, meat, poultry, dairy, cereal products, honey, floriculture and processed foods."
+      },
+      {
+        "question": "Can I make changes to the certificate after registration?",
+        "answer": "Yes, exporters can update product categories and business information by submitting a modification request on the APEDA portal."
+      },
+      {
+        "question": "Does APEDA offer financial assistance?",
+        "answer": "Yes, APEDA provides support for packaging, market development and infrastructure development under its promotional schemes."
+      },
+      {
+        "question": "Who can apply for APEDA registration?",
+        "answer": "Any individual, partnership firm, LLP, private/public limited company or cooperative society involved in the export of scheduled products."
+      },
+      {
+        "question": "How can Professionals Law help in APEDA Registration?",
+        "answer": "Professionals Law assists in document preparation, application submission, fee payment and compliance, making the process easy and error-free."
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 999,
+    "governmentFee": 500,
+    "otherCharges": 500,
+    "total": 4999,
+    "currency": "INR"
+  },
+  "connectedServices": [
+    { "name": "FSSAI Licence", "url": "/services/fssai-licence-registration" },
+    { "name": "Apeda Licence", "url": "/services/apeda-registration" },
+    { "name": "Trade Licence", "url": "/services/trade-license-registration-online" },
+    {
+      "name": "Sole Proprietorship",
+      "url": "/services/proprietorship-registration-india"
+    },
+    { "name": "GST Registration", "url": "/services/gst-registration-online" }
+  ]
+   
+  
+  ,
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/apeda-registration"
+  }
+}

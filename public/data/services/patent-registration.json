@@ -1,0 +1,334 @@
+{
+  "slug": "patent-registration",
+  "keywords": [
+    "Patent Registration",
+    "Patent Filing",
+    "Patent Application",
+    "Patent Registration India",
+    "How to File Patent"
+  ],
+  "title": "Patent Registration Online in India | Process, Fees & Consultant",
+  "hero": {
+    "headline": "Protect Your Invention with Patent Registration",
+    "subtext": "Full support from idea to grant. Professionals Law ensures complete legal protection for your innovation.",
+    "cta": "Apply for Patent"
+  },
+  "mainHeading": "Patent Registration in India (Fast Filing Service)",
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "Patent is a type of legal protection or monopoly, established by the government, that is granted to the inventor or patentee for a new, useful and nonobvious invention. This right prohibits others from making, using, selling or importing the patented product or process without the permission of the patent holder for 20 years from the date of the filing. At Professionals Law, we help people, startups, universities and businesses get and manage patents. Professionals Law does everything according to Indian & international Laws governing intellectual property."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "Patent protection is critical to safeguard the original concepts and to provide inventors with a competitive advantage in business. This forms a legal monopoly for the inventor on it, so that the invention may be developed, commercialized or licensed to others. With innovative technology comes complex legal and technical processes, Professionals Law helps you in successfully applying for the registration of patent and we make sure that the procedure remains smooth throughout."
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "To be patentable, an invention must meet the following conditions:",
+        "criteria": [
+          "Novelty: The invention made must be new and kept secret from the public worldwide prior to filing.",
+          "Inventive Step: The proposal must include a contribution to the state of the art and be non-obvious to a person skilled in the field.",
+          "Industrial Applicability: The invention must be practically possible, capable of being made or used in industry.",
+          "Patentable Subject Matter: The invention should not be in the nature of things which are specifically excluded from patentability under Section 3 and 4 of the Indian Patents Act (e.g. scientific theories, abstract ideas, laws of nature)."
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Exclusive Commercial Rights:",
+        "description": "With registered patent, the inventor has the rights to the exclusive making, selling or licensing of his/her invention, giving them a major business advantage."
+      },
+      {
+        "title": "Protection Against Infringement:",
+        "description": "A registered patent stops other people from copying or profiting off your invention and allows you to take legal action if they do."
+      },
+      {
+        "title": "Promotes Innovation and R&D:",
+        "description": "The existence of patent protection helps to promote an environment where innovation is encouraged and where inventors are rewarded for their innovations, in terms of recognition and financial benefits."
+      },
+      {
+        "title": "Increases Market Value and Investment Opportunity:",
+        "description": "Patents are valuable intangible assets that investors are drawn to, making it easier for you to raise investment and increase business valuation."
+      },
+      {
+        "title": "Global Recognition:",
+        "description": "An Indian patent application can be extended to several countries by way of PCT (Patent Cooperation Treaty) and other international arrangements which Professionals Law can assist you with."
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "Application form (Form 1)",
+          "Complete specification (Form 2) or provisional specification if filing provisionally",
+          "Statement and undertaking (Form 3)",
+          "Declaration of inventorship (Form 5)",
+          "Power of attorney (if filed through Professionals Law)",
+          "Abstract of the invention",
+          "Drawings or illustrations (if any)",
+          "Priority documents (for claiming priority under the Paris Convention)",
+          "MSME/startup certificate (for fee benefits, if applicable)",
+          "Proof of right to apply (assignment deed if applicable)"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Patent Registration",
+    "body": [
+      {
+        "step": "Consultation & Search",
+        "description": "Professionals Law performs a pre-examination search for patentable subject matter and risks of existing patents."
+      },
+      {
+        "step": "Drafting of Specification",
+        "description": "Our team can draft a comprehensive patent specification (provisional/complete specification) with claims, drawings and abstract."
+      },
+      {
+        "step": "Filing of Application",
+        "description": "We file the patent application with the Indian Patent Office (IPO) and give the applicant an application number."
+      },
+      {
+        "step": "Publication of Application",
+        "description": "The application is published after 18 months unless an early publication request is filed."
+      },
+      {
+        "step": "Request for Examination",
+        "description": "Once that is done, typically within 48 months, Professionals Law assists in filing an RFE and then an examiner looks into the application."
+      },
+      {
+        "step": "Reply to Examination Report",
+        "description": "We draft appropriate Reply to FER (First Examination Report) and hearings (if any)."
+      },
+      {
+        "step": "Issuance of Patent",
+        "description": "Provided the application meets all of the requirements, the IPO issues the patent and announces the patent number in the official journal."
+      }
+    ]
+  },
+  "image": "/public/assets/services/patent.png",
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Provisional Filing to Complete Specification",
+        "description": "Within 12 months"
+      },
+      {
+        "title": "Publication of Patent",
+        "description": "After 18 months (can be accelerated)"
+      },
+      {
+        "title": "Request for Examination",
+        "description": "Within 48 months from the date of filing"
+      },
+      {
+        "title": "Examination Report (FER)",
+        "description": "Issued usually within 12-18 months after RFE"
+      },
+      {
+        "title": "Grant of Patent",
+        "description": "Typically, within 2 to 3 years, depending upon the objections and processing speed"
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "False Representation or Misleading Statements",
+        "description": "Penalty of up to ₹10 lakh and/or imprisonment in case any false declaration is made."
+      },
+      {
+        "title": "Unauthorized Use of “Patent”",
+        "description": "Using the term “patented” for unregistered inventions can lead to punitive actions."
+      },
+      {
+        "title": "Failure to Meet the Deadlines",
+        "description": "Failure to meet deadlines, such as for FER response submissions or maintenance fee payments, can result in application refusal or abandonment."
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 7999,
+    "governmentFee": 1600,
+    "otherCharges": 1000,
+    "total": 19999,
+    "currency": "INR"
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "body": [
+      {
+        "question": "Can I patent an idea?",
+        "answer": "No, patents cannot be granted for anything intangible. Mere ideas or abstract concepts are not permitted to be patented."
+      },
+      {
+        "question": "What’s the difference between a provisional patent and complete patent?",
+        "answer": "A provisional patent provides temporary patent protection that lasts for a period of 12 months, before which you must file the complete specification."
+      },
+      {
+        "question": "Whether a startup or MSME file for a patent?",
+        "answer": "Yes, they are entitled to a reduced government fee. Professionals Law assists you with documentation procedure for fee reduction."
+      },
+      {
+        "question": "Can my Indian patent be used in other countries?",
+        "answer": "No, a patent is territorial. However, Professionals Law can help you file international applications via PCT route."
+      },
+      {
+        "question": "For how long a patent remains valid in India?",
+        "answer": "It will be valid for 20 years from the date of filing, subject to timely renewal fees."
+      },
+      {
+        "question": "Can I sell or license my patent?",
+        "answer": "Yes, patents are transferrable and licensable and it can be sold or licensed too. Professionals Law helps in drafting all the necessary agreements for such transactions."
+      },
+      {
+        "question": "What if someone steals my invention?",
+        "answer": "If you have a registered patent, you have the right to take legal action for infringement or misuse. The infringers can be sued for infringement including remedies of injunctions and compensation."
+      },
+      {
+        "question": "Is it possible to amend my patent application after filing?",
+        "answer": "Yes, but only before the grant and within the scope of the original disclosure only."
+      },
+      {
+        "question": "Why should I hire Professionals Law for my patent?",
+        "answer": "Specialising in IP law, Professionals Law offers expert drafting, end-to-end filing support, prior art search, legal advice and representation in IPO in order to ensure your innovation is well protected."
+      }
+    ]
+  },
+  "connectedServices": [
+    {
+      "name": "Copyright Registration",
+      "url": "/services/copyright-registration"
+    },
+    {
+      "name": "Trademark Registration",
+      "url": "/services/trademark-registration"
+    }
+  ],
+  "metaTitle": "Patent Registration Online in India | Process, Fees & Consultant",
+  "metaDescription": "Get patent registration online in India with Professionals Law. Know patent registration process, cost & fees. Expert patent consultant for fast filing & support.",
+  "openGraph": {
+    "title": "Patent Registration Online in India | Process, Fees & Consultant",
+    "description": "Get patent registration online in India with Professionals Law. Know patent registration process, cost & fees. Expert patent consultant for fast filing & support.",
+    "url": "https://www.professionalslaw.com/services/patent-registration",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Patent Registration Online in India | Process, Fees & Consultant",
+    "description": "Get patent registration online in India with Professionals Law. Know patent registration process, cost & fees. Expert patent consultant for fast filing & support.",
+    "images": [
+      "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"
+    ]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/patent-registration"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/patent-registration",
+    "serviceType": "Patent Registration",
+    "name": "Patent Registration India",
+    "url": "https://www.professionalslaw.com/services/patent-registration",
+    "description": "Get patent registration online in India with Professionals Law. Know patent registration process, cost & fees. Expert patent consultant for fast filing & support.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/patent-registration",
+      "priceCurrency": "INR",
+      "price": "19999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Patent Registration — Steps",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Consultation & Search" }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Drafting of Specification"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Filing of Application" }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Publication of Application"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Request for Examination"
+          }
+        }
+      ]
+    },
+    "serviceOutput": "Patent Certificate",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/patent-registration"
+    }
+  }
+}

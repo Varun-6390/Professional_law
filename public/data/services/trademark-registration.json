@@ -1,0 +1,218 @@
+{
+  "slug": "trademark-registration",
+  "title": "Trademark Registration",
+  "hero": {
+    "headline": "Secure Your Brand with Trademark Registration",
+    "subtext": "Protect your logo, name & identity. Fast and expert-led registration by Professionals Law.",
+    "cta": "Register Trademark"
+  },
+  "mainHeading": "TRADEMARK",
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "A Trademark can be a single logo, word, symbol or a combination that sets apart your products and services from those of another in the same market system. The Registration of Trademark provides exclusive ownership and legal rights under the Trade Marks Act, 1999. It is an essential part of brand identity, as it can help businesses establish themselves and stand out from the competition. Professionals Law offers seamless trademark services across the nation. From trademark search and classification to filing, including objection and opposition handling, Professionals Law makes sure that your brand is protected and fully compliant under the law, with all the statutory framework that is needed."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "Protecting your brand from being imitated and used unauthorizedly is crucial and that is where trademark registration comes into picture. It grants its owner a monopoly in use of the mark with respect to a particular product or service. Without having it registered, your competitors could take advantage of your name and you will have a hard time enforcing your rights. Professionals Law ensures that your brand’s image and identity is protected across all the legal fronts."
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "",
+        "criteria": [
+          "An individual, company, partnership, LLP or NGO",
+          "The mark must be used or must have a bona fide intention to be used in future.",
+          "The sign has to be distinctive and unique.",
+          "The proposed trademark must not infringe on one that is already registered."
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Exclusive Rights for Ownership:",
+        "description": "Once you register your trademark, you own your brand name or logo and become the only party that can use it; no other company or person can lawfully use your brand name or logo."
+      },
+      {
+        "title": "Legal Shield:",
+        "description": "Trademarks that are registered have legal backing. We at Professionals Law assist you in filing suit for any kind of violation or replication."
+      },
+      {
+        "title": "Brand Value & Name:",
+        "description": "A trade mark is associated with a business and helps a business with recognition and goodwill. As it grows it becomes an inimitable company asset."
+      },
+      {
+        "title": "Nation-Wide Protection:",
+        "description": "Once a trademark has been registered with Professionals Law, it enjoys protection all over India, irrespective of the locality to which your business operates."
+      },
+      {
+        "title": "Essential for Business Growth:",
+        "description": "Trademark is an essential asset when seeking out new investors, franchising, licensing and while expanding your business overseas. Professionals Law also assists with international trademark registration, if required."
+      },
+      {
+        "title": "Credibility:",
+        "description": "A registered trademark gives your brand credibility in the eyes of consumers, investors and partners."
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "Id and address proof of the applicant (Aadhaar, PAN, Passport, etc.)",
+          "Business registration documents (GST, Certificate of Incorporation, etc.)",
+          "Logo or brand name",
+          "Power of Attorney duly signed",
+          "Proof of trademark usage (if already in use)",
+          "MSME/Startup certificate (for government fee concessions, if applicable)"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Trademark Registration",
+    "body": [
+      {
+        "step": "Trademark Search",
+        "description": "Professionals Law will search your trademark in depth to be sure it is unique and is not already registered."
+      },
+      {
+        "step": "Filing of an Application",
+        "description": "A new trademark application is filed within the Trademark Registry electronically in Form TM-A)."
+      },
+      {
+        "step": "Examination",
+        "description": "The Trademark Office examines your application and reports an examination result within 1 to 2 months."
+      },
+      {
+        "step": "Reply to Objection (if any)",
+        "description": "In case of any objections, Professionals Law prepares a robust reply supported with legal justifications."
+      },
+      {
+        "step": "Publication in Journal",
+        "description": "After acceptance, the trademark is published in the Trademark Journal for any public opposition."
+      },
+      {
+        "step": "Opposition Handling (if any)",
+        "description": "If there is any opposition raised, Professionals Law will handle the opposition matters, including legal replies and hearings."
+      },
+      {
+        "step": "Registration Certificate",
+        "description": "If no objection is made or any opposition is filed or if they are resolved, the trademark will be registered and a certificate will be issued."
+      }
+    ]
+  },
+  "image": "/public/assets/services/trademark.png",
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Trademark Search & Filing",
+        "description": "1 to 2 working days"
+      },
+      {
+        "title": "Examination Report",
+        "description": "30 to 60 days"
+      },
+      {
+        "title": "Publication in Journal",
+        "description": "After acceptance, around 4 to 6 months"
+      },
+      {
+        "title": "Opposition Period",
+        "description": "4 months from the date of publication in journal"
+      },
+      {
+        "title": "Registration Certificate",
+        "description": "6 to 18 months (depending upon any objections or opposition)"
+      } 
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "Infringement",
+        "description": "Any unauthorized use of a trademark may result in civil and criminal proceedings and may cost monetary damages and/or imprisonment."
+      },
+      {
+        "title": "False Representation",
+        "description": "Providing false, inaccurate or misleading information, documents or misrepresentation may subject to application denial and legal consequences."
+      },
+      {
+        "title": "Non-Usage",
+        "description": "If a trademark is not used for 5 consecutive years post-registration, it might be removed from the registry."
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 1499,
+    "governmentFee": 4500,
+    "otherCharges": 500,
+    "total": 6499,
+    "currency": "INR"
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "body": [
+      {
+        "question": "Who can file a trademark in India?",
+        "answer": "Anybody - individual, company, LLP, NGO, irrespective of the size or turnover is eligible to apply."
+      },
+      {
+        "question": "Can I register a trademark before starting the business?",
+        "answer": "Yes, you can register a trademark on a ‘proposed to be used’ basis before even starting your business."
+      },
+      {
+        "question": "What is the validity period of trademark?",
+        "answer": "The trademark registration remains valid for a period of 10 years and it can be renewed indefinitely."
+      },
+      {
+        "question": "Is logo registration different from name registration?",
+        "answer": "Yes. You can register either or both a wordmark (name) and/or a device mark (logo). Professionals Law helps you in securing both of them."
+      },
+      {
+        "question": "What if my trademark/brand is similar to someone else?",
+        "answer": "Professionals Law makes thorough search before applying. In case there is any issue, our legal experts will take care of your application."
+      },
+      {
+        "question": "Is it possible for a foreign company to register a trademark in India?",
+        "answer": "Absolutely yes, even a foreign companies can apply under Indian trademark law."
+      },
+      {
+        "question": "Can I use the ™ symbol even if it is not registered?",
+        "answer": "Yes. Once you apply, you can start using ™ without any problem. Use ® only after registration."
+      },
+      {
+        "question": "What if someone else copies my trademark?",
+        "answer": "Trademark laws give you legal rights to take action against those who infringe or misuse your trademark. Professionals Law can assist you in sending cease & desist notices or file lawsuit against them."
+      },
+      {
+        "question": "Is online trademark registration reliable?",
+        "answer": "Yes, Professionals Law uses secure and government-approved portals for all online filing of applications, submissions, ensuring transparency and reliability."
+      }
+    ]
+  },
+  "connectedServices": [
+    { "name": "Copyright Registration", "url": "/services/copyright-registration" },
+    { "name": "ISO Certification", "url": "/services/iso-certification" }
+  ]
+    ,"openGraph": {
+    "url": "https://www.professionalslaw.com/services/trademark-registration",
+    "type": "website",
+    "siteName": "Professionals Law"
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/trademark-registration"
+  }
+}

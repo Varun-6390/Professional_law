@@ -115,25 +115,7 @@ export default function Footer() {
         </div>
 
         {/* Bottom Banner - Newsletter & Copyright */}
-        <div className="border-t border-gray-800/60 pt-10 flex flex-col lg:flex-row items-center justify-between gap-8">
-          {/* Subscribe Widget */}
-          <div className="w-full lg:max-w-md bg-white/5 border border-white/10 rounded-2xl p-6 flex flex-col sm:flex-row items-center gap-4">
-            <div className="sm:text-left text-center flex-grow">
-              <h5 className="text-white font-bold text-sm">Get compliance updates</h5>
-              <p className="text-xs text-gray-400 mt-1">Subscribe for timely licenses, NOC and regulatory updates.</p>
-            </div>
-            <div className="relative w-full sm:w-auto shrink-0 flex">
-              <input
-                type="email"
-                placeholder="Enter email address"
-                className="bg-white text-gray-800 text-sm px-4 py-2.5 rounded-xl border border-transparent focus:outline-none focus:ring-2 focus:ring-[#1572ed] w-full sm:w-56 font-medium placeholder-gray-400"
-              />
-              <button className="absolute right-1 top-1 bottom-1 bg-[#f97316] text-white px-3 rounded-lg flex items-center justify-center hover:bg-[#ea580c] transition-colors">
-                <Send size={14} />
-              </button>
-            </div>
-          </div>
-
+        <div className="border-t border-gray-800/60 pt-10 flex flex-col lg:flex-row items-center justify-center gap-8">
           <div className="text-sm text-gray-500 text-center lg:text-right">
             <p>© {new Date().getFullYear()} Professional Law. All rights reserved.</p>
             <div className="mt-2 flex gap-4 justify-center lg:justify-end text-xs text-gray-500">

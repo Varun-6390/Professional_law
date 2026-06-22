@@ -1,0 +1,286 @@
+{
+  "slug": "lei-registration-services",
+  "title": "LEI Registration Services",
+  "hero": {
+    "headline": "Get Your LEI Code with Professionals Law",
+    "subtext": "Mandatory for Financial Transactions | RBI & SEBI Compliant | Quick & Reliable Processing",
+    "cta": "Apply Now"
+  },
+  "mainHeading": "LEI Registration & Renewal Services – Apply LEI Code in India",
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "Legal Entity Identifier (LEI) is a 20-digit unique code to identify distinct legal entities who participate in financial transactions worldwide. It has come into existence as a result of the efforts by the G20 and is supervised by the LEI ROC (Legal Entity Identifier Regulatory Oversight Committee). Reserve Bank of India has mandated LEI for all entities which are parties to derivative and non-derivative financial markets transactions. Professionals Law provides end-to-end assistance in obtaining LEI registration for smooth financial compliance with RBI and international financial norms."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "All financial transactions under RBI or SEBI regulation, including cross-border payments, derivatives trading and transactions above a certain amount, require an LEI for every company involved. It guarantees the traceability, mitigates the risk and increases transparency in the world of global finance. Professionals Law assist corporations to comply in totally accurate and least time-consuming manner."
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "LEI Registration is applicable for:",
+        "criteria": [
+          "Companies (Private, Public, LLPs)",
+          "Partnership Firms & Trusts",
+          "Financial Institutions and NBFCs",
+          "Exporters and Importers",
+          "Entities involved in forex, derivatives or securities transactions above the prescribed threshold"
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Global Financial Transparency",
+        "description": "LEI enables global recognition of your business identity, ensuring transparency and credibility in cross-border and interbank transactions."
+      },
+      {
+        "title": "RBI & SEBI Compliance",
+        "description": "Regulatory bodies in India mandate LEI for reporting and participation in derivative and financial markets, making registration a legal necessity."
+      },
+      {
+        "title": "Streamlined Financial Transactions",
+        "description": "Helps banks and counterparties verify legal entities efficiently, reducing fraud risks and improving operational efficiency in financial systems."
+      },
+      {
+        "title": "Single Identity for All Markets",
+        "description": "LEI acts as a uniform identifier accepted across global jurisdictions and financial ecosystems."
+      },
+      {
+        "title": "Facilitates Reporting Obligations",
+        "description": "Simplifies compliance with financial reporting and regulatory filings, especially for entities dealing with foreign investments or complex financial products."
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "KYC Documents of the authorised signatory (Email id, Mobile No. PAN, Aadhaar, Voter id, Bank Statement etc.)",
+          "Certificate of Incorporation / Partnership Deed / Trust Deed",
+          "PAN Card of the entity",
+          "GST Registration (if available)",
+          "Proof of business address",
+          "Board Resolution / Authorization Letter",
+          "Audited Financial Statements or ROC filings"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Applying",
+    "body": [
+      {
+        "step": "Eligibility Assessment",
+        "description": "Confirm entity eligibility and applicable RBI/SEBI regulations."
+      },
+      {
+        "step": "Document Preparation",
+        "description": "Compile KYC documents and authorization letters on company letterhead."
+      },
+      {
+        "step": "LEI Application Submission",
+        "description": "Apply through an accredited Local Operating Unit (LOU) such as Legal Entity Identifier India Ltd (LEIL)."
+      },
+      {
+        "step": "Verification by LOU",
+        "description": "The authority verifies entity information and documents."
+      },
+      {
+        "step": "LEI Code Issuance",
+        "description": "Upon successful verification, a 20-digit LEI code is issued, valid for 1 year."
+      }
+    ]
+  },
+  "image": "/public/assets/services/lei.png",
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Document Collection & Review",
+        "description": "1 to 2 working days"
+      },
+      {
+        "title": "Application Submission",
+        "description": "1 day"
+      },
+      {
+        "title": "Verification and Issuance",
+        "description": "2 to 4 working days"
+      },
+      {
+        "title": "Total Time",
+        "description": "3 to 6 working days"
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "Failure to Obtain LEI",
+        "description": "Restriction on financial transactions involving foreign exchange, derivatives or securities."
+      },
+      {
+        "title": "Ineligibility",
+        "description": "Ineligibility for RBI-regulated services until the LEI is obtained."
+      },
+      {
+        "title": "Transaction Rejection",
+        "description": "Increased scrutiny or rejection of high-value transactions by banks or intermediaries."
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 1499,
+    "governmentFee": 3000,
+    "otherCharges": 500,
+    "total": 3999,
+    "currency": "INR"
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "body": [
+      {
+        "question": "What is a Legal Entity Identifier (LEI)?",
+        "answer": "It is a 20-digit unique identification code assigned to legal entities involved in financial transactions globally."
+      },
+      {
+        "question": "Who must obtain an LEI in India?",
+        "answer": "Entities involved in derivatives, cross-border transactions or trading in financial markets, as per RBI/SEBI guidelines."
+      },
+      {
+        "question": "Is LEI registration mandatory?",
+        "answer": "Yes, for entities engaged in regulated financial activities above certain thresholds."
+      },
+      {
+        "question": "How long is the LEI valid?",
+        "answer": "LEI is valid for 1 year from the date of issuance and must be renewed annually."
+      },
+      {
+        "question": "Which authority issues LEI in India?",
+        "answer": "Legal Entity Identifier India Ltd (LEIL), a subsidiary of the Clearing Corporation of India Ltd (CCIL), is the recognized Local Operating Unit."
+      },
+      {
+        "question": "What happens if LEI is not renewed?",
+        "answer": "An expired LEI is considered inactive and your financial transactions may be blocked by banks or regulators."
+      },
+      {
+        "question": "Can individuals apply for LEI?",
+        "answer": "No, only legal entities such as companies, firms, trusts, etc., are eligible."
+      },
+      {
+        "question": "What are the consequences of non-compliance?",
+        "answer": "You may face transaction delays, rejections and penalties under RBI or SEBI frameworks."
+      },
+      {
+        "question": "Can Professionals Law assist in obtaining and renewing LEI?",
+        "answer": "Yes, Professionals Law provides end-to-end assistance in LEI application, renewal and regulatory compliance."
+      }
+    ]
+  },
+ "connectedServices": [
+  { "name": "Trademark Application", "url": "/services/trademark-application" },
+  { "name": "Copyright Registration", "url": "/services/copyright-registration" },
+  { "name": "NBFC Registration", "url": "/services/nbfc-registration" },
+  { "name": "PSARA Licence", "url": "/services/psara-licence" },
+  { "name": "TDS Return", "url": "/services/tds-returns" }
+]
+,
+  "keywords": ["LEI Registration India", "Legal Entity Identifier code", "LEI renewal in India", "LEI registration fees", "Apply LEI Code"],
+  "metaTitle": "LEI Registration & Renewal India | Apply Legal Entity Identifier",
+  "metaDescription": "Apply LEI registration or renewal in India with expert consultants. Legal Entity Identifier code, documents, fees & fast LEI certificate issuance.",
+  "openGraph": {
+    "title": "LEI Registration & Renewal India | Apply Legal Entity Identifier",
+    "description": "Apply LEI registration or renewal in India with expert consultants. Legal Entity Identifier code, documents, fees & fast LEI certificate issuance.",
+    "url": "https://www.professionalslaw.com/services/lei-registration-services",
+    "type": "website",
+    "siteName": "Professionals Law",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "LEI Registration & Renewal India | Apply Legal Entity Identifier",
+    "description": "Apply LEI registration or renewal in India with expert consultants. Legal Entity Identifier code, documents, fees & fast LEI certificate issuance.",
+    "images": ["https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/lei-registration-services"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/lei-registration-services",
+    "serviceType": "LEI Registration & Renewal",
+    "name": "LEI Registration in India",
+    "url": "https://www.professionalslaw.com/services/lei-registration-services",
+    "description": "Apply LEI registration or renewal in India with expert consultants. Legal Entity Identifier code, documents, fees & fast LEI certificate issuance.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/lei-registration-services",
+      "priceCurrency": "INR",
+      "price": "3999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "LEI Registration — Steps",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Eligibility Assessment" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Document Preparation" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "LEI Application Submission" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Verification by LOU" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "LEI Code Issuance" } }
+      ]
+    },
+    "serviceOutput": "LEI Registration Certificate",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/lei-registration-services"
+    }
+  }
+}

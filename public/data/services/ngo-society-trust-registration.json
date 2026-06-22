@@ -1,0 +1,183 @@
+{
+  "slug": "ngo-society-trust-registration",
+  "title": "NGO Registration Online in India – Trust & Society Registration",
+  "metaDescription": "Get NGO registration in India with trust registration & society registration support. Know cost in India, documents required & how to register NGO online easily.",
+  "canonicalUrl": "https://www.professionalslaw.com/services/ngo-society-trust-registration",
+  "hero": {
+    "headline": "NGO Registration in India – Trust & Society Registration Online",
+    "breadcrumbs": [
+      { "label": "Home", "url": "/" },
+      { "label": "Services", "url": "/services" },
+      {
+        "label": "NGO / Society / Trust Registration",
+        "url": "/services/ngo-society-trust-registration"
+      }
+    ],
+    "subtext": "Get legal recognition, tax benefits, and open access to government and CSR funding. Fast & compliant registration process."
+  },
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "NGOs (Non-Governmental Organizations), Societies and Trusts are non-profit entities formed for charitable, religious, educational, scientific, social welfare or similar purposes. These organizations play a vital role in serving the public and addressing societal issues.",
+      "They are governed by different laws in India: Trusts are registered under the Indian Trusts Act, 1882 (for private trusts) or applicable state trust acts (for public trusts). Societies are registered under the Societies Registration Act, 1860.",
+      "Compliances include maintenance of accounts, filing annual returns, audits, FCRA registration (for foreign contributions) and timely renewals and updates depending on the type of registration."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "Registration of an NGO, society or trust gives it a legal identity, making it eligible for government grants, tax exemptions, foreign donations (FCRA) and credibility among donors.",
+      "It also provides transparency, structure and legal protection to the activities being conducted. Without registration, it is difficult to open a bank account, sign contracts or gain public trust."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Legal Recognition",
+        "description": "Registration provides the NGO or trust with a legal identity, allowing it to own property, enter into contracts and open a bank account in its name."
+      },
+      {
+        "title": "Tax Benefits",
+        "description": "Registered NGOs can apply for tax exemptions under sections 12A and 80G of the Income Tax Act, benefiting both the organization and its donors."
+      },
+      {
+        "title": "Credibility & Trust",
+        "description": "Legal status increases donor confidence, making it easier to raise funds from individuals, corporate and government bodies."
+      },
+      {
+        "title": "Access to Grants and Funding",
+        "description": "Registered entities can apply for government schemes, CSR funds and even foreign contributions through FCRA registration."
+      },
+      {
+        "title": "Continuity",
+        "description": "The organization can operate perpetually regardless of changes in its members or trustees, ensuring long-term impact."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "Trust",
+        "criteria": [
+          "Requires a minimum of two trustees (some states may need three)",
+          "Generally used for charitable or religious purposes"
+        ]
+      },
+      {
+        "applicantType": "Society",
+        "criteria": [
+          "Requires at least 7 members",
+          "One member must be from a different state (for national-level societies)"
+        ]
+      },
+      {
+        "applicantType": "General",
+        "criteria": [
+          "All members must be above 18 years of age and of sound mind"
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "Trust Registration",
+        "documents": [
+          "Trust Deed (with details of trustees, objectives, rules)",
+          "ID and address proof of all trustees",
+          "Passport-sized photos",
+          "PAN of trustees",
+          "Proof of registered office (electricity bill, rent agreement, NOC)"
+        ]
+      },
+      {
+        "applicantType": "Society Registration",
+        "documents": [
+          "Memorandum of Association (MOA)",
+          "Rules & Regulations of Society",
+          "ID and address proof of all members",
+          "Address proof of office",
+          "Declaration by president and secretary"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Getting Registration",
+    "body": [
+      {
+        "step": "For Trust",
+        "description": "Draft Trust Deed → Notarize → Submit to Sub-Registrar → Get Registration Certificate"
+      },
+      {
+        "step": "For Society",
+        "description": "Draft MOA & Rules → Collect member proofs → Submit to Registrar → Receive Registration Certificate"
+      }
+    ]
+  },
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Trust Registration",
+        "description": "7 to 10 working days"
+      },
+      {
+        "title": "Society Registration",
+        "description": "10 to 15 working days"
+      }
+    ]
+  },
+  "pricing": {
+    "total": "4999"
+  },
+  "faqs": {
+    "body": [
+      {
+        "question": "Can an NGO be run without registration?",
+        "answer": "Yes, but it cannot receive donations in its name, claim tax exemptions or enjoy legal recognition."
+      },
+      {
+        "question": "Can foreigners be part of a Trust or Society?",
+        "answer": "Yes, but there may be additional documentation and regulatory approvals required."
+      },
+      {
+        "question": "Do NGOs need to file tax returns?",
+        "answer": "Yes, even if they are exempted, annual income tax returns and audits are mandatory."
+      },
+      {
+        "question": "What is FCRA and is it required?",
+        "answer": "FCRA (Foreign Contribution Regulation Act) registration is needed to legally accept donations from foreign sources."
+      },
+      {
+        "question": "Can NGOs make a profit?",
+        "answer": "They can generate surplus but must reinvest it in the organization’s charitable activities. Profits cannot be distributed."
+      },
+      {
+        "question": "How to open a bank account for a Trust or Society?",
+        "answer": "After registration, use the certificate, PAN and trust deed/MOA to open a bank account in the organization's name."
+      },
+      {
+        "question": "Can a single person start an NGO?",
+        "answer": "For Trusts, at least 2 trustees are required; Societies need 7; and Section 8 Companies need 2 directors/shareholders."
+      },
+      {
+        "question": "Can an NGO run a business?",
+        "answer": "An NGO can run business activities if profits are utilized solely for the achievement of its charitable objectives."
+      }
+    ]
+  },
+  "connectedServices": [
+    {
+      "name": "80G & 12A Registration",
+      "url": "/services/80g-12a-registration"
+    },
+    {
+      "name": "FCRA Registration",
+      "url": "/services/fcra-registration"
+    }
+  ]
+}

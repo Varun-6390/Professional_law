@@ -138,7 +138,7 @@ export default function About() {
                 variants={itemVariants}
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
-                className="bg-[#0b132a] text-white px-8 py-3.5 rounded-xl font-medium hover:bg-[#1a233a] transition-colors"
+                className="bg-[#f97316] text-white px-8 py-3.5 rounded-xl font-medium hover:bg-[#ea580c] transition-colors shadow-md shadow-orange-500/20"
               >
                 Read Our Full Story
               </motion.button>

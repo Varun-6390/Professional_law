@@ -1,0 +1,233 @@
+{
+  "slug": "other-licences",
+  "title": "Others",
+  "hero": {
+    "headline": "Lorem ipsum dolor sit amet",
+    "subtext": "Consectetur adipiscing elit. Integer nec odio. Praesent libero.",
+    "cta": "Lorem Register"
+  },
+  "mainHeading": "Others",
+  "introduction": {
+    "heading": "Lorem Introduction",
+    "body": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac leo nunc. Vestibulum et mauris vel ante finibus maximus nec ut leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why Lorem Is Needed",
+    "body": [
+      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis consequat lorem at feugiat pharetra. Sed lacinia fermentum velit, at facilisis magna."
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Lorem Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "Lorem eligible entities include:",
+        "criteria": [
+          "Lorem Trusts",
+          "Lorem Societies",
+          "Lorem Section 8 Companies",
+          "Institutions engaged in lorem ipsum such as education, health, and relief."
+        ]
+      },
+      {
+        "applicantType": "The entity must:",
+        "criteria": [
+          "Operate on a lorem basis.",
+          "Apply income towards lorem objectives.",
+          "Maintain proper lorem books.",
+          "Not distribute lorem profits."
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "Lorem Benefits",
+    "body": [
+      {
+        "title": "Tax Lorem (12A):",
+        "description": "Lorem ipsum organizations are exempt from tax on lorem income used for charitable purposes."
+      },
+      {
+        "title": "Attract Lorem Donors (80G):",
+        "description": "Lorem 80G registration allows donors to receive lorem tax benefits."
+      },
+      {
+        "title": "Enhanced Lorem Credibility:",
+        "description": "Registration gives lorem credibility and compliance."
+      },
+      {
+        "title": "CSR Fund Eligibility:",
+        "description": "Lorem corporates prefer donating to such organizations."
+      },
+      {
+        "title": "Lorem Sustainability:",
+        "description": "Increased confidence leads to sustainable lorem growth."
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Lorem Documents",
+    "categories": [
+      {
+        "applicantType": "For Lorem 12A:",
+        "documents": [
+          "KYC Lorem Documents",
+          "Entity Email and Mobile",
+          "Certificate of Lorem Registration",
+          "Lorem Trust Deed / Bylaws",
+          "PAN card of lorem entity",
+          "ID & address of lorem trustees",
+          "Financials (if any)",
+          "List of lorem trustees",
+          "Activity lorem reports",
+          "Bank lorem details"
+        ]
+      },
+      {
+        "applicantType": "For Lorem 80G:",
+        "documents": [
+          "All 12A documents",
+          "ITR (if filed)",
+          "Activity details",
+          "Donor list (if available)",
+          "Charitable activity notes"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Lorem Steps",
+    "body": [
+      {
+        "step": "Eligibility Lorem Check",
+        "description": "Conducted by Professionals Law lorem experts."
+      },
+      {
+        "step": "Document Review",
+        "description": "Collect and review lorem documentation."
+      },
+      {
+        "step": "Application Preparation",
+        "description": "Prepare online lorem applications."
+      },
+      {
+        "step": "Online Filing",
+        "description": "Submit Lorem Forms online."
+      },
+      {
+        "step": "Follow-up",
+        "description": "Handle clarifications with officials."
+      },
+      {
+        "step": "Approval & Certificate",
+        "description": "Issue of lorem certificates."
+      },
+      {
+        "step": "Post-Registration",
+        "description": "Ongoing lorem support."
+      }
+    ]
+  },
+  "image": "/public/assets/services/80g-12a.png",
+  "timelines": {
+    "heading": "Lorem Timelines",
+    "body": [
+      {
+        "title": "Document Prep",
+        "description": "5–7 lorem days"
+      },
+      {
+        "title": "Filing Time",
+        "description": "1–2 lorem days"
+      },
+      {
+        "title": "Processing Time",
+        "description": "30–90 lorem days"
+      },
+      {
+        "title": "Total Time",
+        "description": "1–3 lorem months"
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Lorem Penalties",
+    "body": [
+      {
+        "title": "Lorem registration rejection.",
+        "description": ""
+      },
+      {
+        "title": "Loss of lorem tax benefits.",
+        "description": ""
+      },
+      {
+        "title": "Full income becomes taxable.",
+        "description": ""
+      },
+      {
+        "title": "Penalty for evasion.",
+        "description": ""
+      },
+      {
+        "title": "Legal scrutiny possible.",
+        "description": ""
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Lorem Pricing",
+    "professionalFee": 2499,
+    "governmentFee": 0,
+    "otherCharges": 500,
+    "total": 1,
+    "currency": "INR"
+  },
+  "faqs": {
+    "heading": "Lorem FAQs",
+    "body": [
+      {
+        "question": "Can a new NGO apply?",
+        "answer": "Yes, lorem ipsum if they meet criteria."
+      },
+      {
+        "question": "Is 80G mandatory?",
+        "answer": "Not mandatory, but lorem recommended."
+      },
+      {
+        "question": "Is 12A mandatory?",
+        "answer": "Yes, for lorem tax exemption."
+      },
+      {
+        "question": "What is the validity?",
+        "answer": "Valid for 5 lorem years."
+      },
+      {
+        "question": "Can both be applied together?",
+        "answer": "Yes, in one lorem application."
+      },
+      {
+        "question": "What if it's cancelled?",
+        "answer": "Loss of benefits and penalties."
+      },
+      {
+        "question": "What are maintenance conditions?",
+        "answer": "Operate for charity and file returns."
+      },
+      {
+        "question": "Can religious orgs apply?",
+        "answer": "Only partially religious ones may qualify."
+      },
+      {
+        "question": "How can Professionals Law help?",
+        "answer": "Complete lorem assistance provided."
+      }
+    ]
+  },
+  "connectedServices": [
+    { "name": "NGO Registration", "url": "/services/ngo-registration" },
+    { "name": "FCRA Registration", "url": "/services/fcra-registration" }
+  ]
+}

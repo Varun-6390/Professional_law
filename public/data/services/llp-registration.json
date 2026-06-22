@@ -1,0 +1,270 @@
+{
+  "slug": "llp-registration",
+  "title": "LLP Registration",
+  "keywords": ["LLP registration", "Online LLP Registration", "Limited Liability Partnership"],
+  "metaTitle": "LLP Registration Online | Register Limited Liability Partnership",
+  "metaDescription": "Register LLP online in India with expert consultants. New LLP registration, name approval & licence support at affordable charges with fast processing.",
+  "openGraph": {
+    "title": "LLP Registration Online | Register Limited Liability Partnership",
+    "description": "Register LLP online in India with expert consultants. New LLP registration, name approval & licence support at affordable charges with fast processing.",
+    "url": "https://www.professionalslaw.com/services/llp-registration",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/assets/img/logo.png",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "LLP Registration Online | Register Limited Liability Partnership",
+    "description": "Register LLP online in India with expert consultants. New LLP registration, name approval & licence support at affordable charges with fast processing.",
+    "images": ["https://www.professionalslaw.com/assets/img/logo.png"]
+  },
+
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/llp-registration"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/llp-registration",
+    "serviceType": "LLP Registration",
+    "name": "LLP Registration in India",
+    "url": "https://www.professionalslaw.com/services/llp-registration",
+    "description": "Register LLP online in India with expert consultants. New LLP registration, name approval & licence support at affordable charges with fast processing.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/llp-registration",
+      "priceCurrency": "INR",
+      "price": "5999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "LLP Registration Steps",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Obtain DSC for designated partners" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Apply DIN via MCA" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Reserve name via RUN-LLP" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "File FiLLiP with MCA" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Draft & file LLP Agreement (Form 3)" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "PAN & TAN application" } }
+      ]
+    },
+    "serviceOutput": "Certificate of Incorporation (LLP)",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/llp-registration"
+    }
+  },
+
+  "mainHeading": "LLP Registration Online – Register Limited Liability Partnership in India",
+  "hero": {
+    "headline": "Register Your LLP with Legal Precision",
+    "subtext": "Combine flexibility with limited liability through expert-guided LLP registration by Professionals Law Private Limited."
+  },
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "A Limited Liability Partnership is a hybrid business structure that combines the benefits of a company and a traditional partnership.",
+      "Introduced under the LLP Act, 2008, it offers the flexibility of a partnership with the added advantage of limited liability for its partners.",
+      "Compliance includes annual filing of Form 8 (Statement of Account & Solvency), Form 11 (Annual Return) and Income Tax Return. The structure supports efficient management and ensures the business is legally recognized and protected."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "An LLP is ideal for businesses that want to run with minimal liability while maintaining operational flexibility.",
+      "It is suitable for SMEs, startups, and professionals who wish to collaborate without full personal risk."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Limited Liability",
+        "description": "Partners are not personally liable for business debts or liabilities. Their liability is limited to the capital they contribute, protecting their personal assets from business risks."
+      },
+      {
+        "title": "Separate Legal Entity",
+        "description": "An LLP is a distinct legal entity from its partners. It can own assets, enter into contracts and sue or be sued in its own name."
+      },
+      {
+        "title": "Operational Flexibility",
+        "description": "LLPs have fewer compliance requirements compared to private limited companies. There is no mandate for annual general meetings or heavy auditing unless turnover crosses specified limits."
+      },
+      {
+        "title": "No Minimum Capital Requirement",
+        "description": "There is no mandatory minimum capital to start an LLP. Partners can contribute any amount agreed mutually."
+      },
+      {
+        "title": "Tax Benefits",
+        "description": "LLPs enjoy several tax advantages, including no dividend distribution tax and exemption from audit if annual turnover is below ₹40 lakh and capital contribution is below ₹25 lakh."
+      },
+      {
+        "title": "Easy Ownership Transfer",
+        "description": " Ownership can be partially transferred by inducting new partners or changing partnership ratios without significant procedural complications."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "General Requirements",
+        "criteria": [
+          "Minimum two partners (at least one must be a resident of India).",
+          "Partners can be individuals or legal entities (LLPs/Companies).",
+          "At least two designated partners, both of whom must have DIN (Director Identification Number) and DSC (Digital Signature Certificate).",
+          "Must have a registered office address in India."
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "For Partners",
+        "documents": [
+          "Email ID and Mobile Number",
+          "PAN Card and Aadhaar Card (mandatory)",
+          "Passport (for foreign nationals/NRIs)",
+          "Address proof (bank statement, electricity bill, etc.)",
+          "Passport-size photographs",
+          "DSC (Digital Signature Certificate)"
+        ]
+      },
+      {
+        "applicantType": "For Registered Office",
+        "documents": [
+          "Utility bill (not older than 2 months)",
+          "Rent agreement (if rented)",
+          "NOC from property owner"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Getting Registration",
+    "body": [
+      {
+        "step": "Obtain DSC for all designated partners."
+      },
+      {
+        "step": "Apply for DIN through the MCA portal."
+      },
+      {
+        "step": "Name Reservation via RUN-LLP (Reserve Unique Name)."
+      },
+      {
+        "step": "Filing Incorporation Documents in Form FiLLiP with MCA."
+      },
+      {
+        "step": "Draft and File LLP Agreement within 30 days of incorporation using Form 3."
+      },
+      {
+        "step": "PAN and TAN Application for the LLP."
+      }
+    ]
+  },
+
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Complete Registration Time",
+        "description": " 10 to 15 working days "
+      }
+    ]
+  },
+  "faqs": {
+    "body": [
+      {
+        "question": "Can an LLP be converted into a private limited company?",
+        "answer": "Yes, by following the prescribed legal process and approvals."
+      },
+      {
+        "question": "Is it mandatory to audit LLP accounts?",
+        "answer": "Only if turnover exceeds ₹40 lakh or contribution exceeds ₹25 lakh."
+      },
+      {
+        "question": "Can an LLP be formed with just one partner?",
+        "answer": "No, a minimum of two partners is mandatory."
+      },
+      {
+        "question": "Is foreign investment allowed in LLPs?",
+        "answer": "Yes, under the automatic route in permitted sectors."
+      },
+      {
+        "question": "Is the LLP name required to be unique?",
+        "answer": "Yes, it must not resemble any existing LLP or company name."
+      },
+      {
+        "question": "Who can be a designated partner?",
+        "answer": "Any individual with DIN and DSC; at least one must be a resident of India."
+      },
+      {
+        "question": "Is GST registration mandatory for LLP?",
+        "answer": "Yes, if turnover exceeds ₹40 lakh (₹20 lakh for services) or in case of inter-state supply."
+      },
+      {
+        "question": "Can a salaried person become a partner in LLP?",
+        "answer": "Yes, unless restricted by their employment contract."
+      },
+      {
+        "question": "Is there any cap on number of partners?",
+        "answer": "No, there is no upper limit on the number of LLP partners."
+      }
+    ]
+  },
+  "connectedServices": [
+    {
+      "name": "Private Limited Registration",
+      "url": "/services/private-limited-company-registration-india"
+    },
+    {
+      "name": "Public Limited Registration",
+      "url": "/services/public-limited-company"
+    },
+    { "name": "GST Registration", "url": "/services/gst-registration-online" },
+    { "name": "MSME Registration", "url": "/services/msme-registration-india " }
+  ],
+  "pricing": {
+    "total": "5,999"
+  }
+}

@@ -101,7 +101,7 @@ export default function Hero() {
           <button className="bg-[#f97316] text-white px-7 py-3.5 rounded-[12px] font-semibold text-[16px] hover:bg-[#ea580c] transition-colors shadow-md shadow-orange-500/20 w-full sm:w-auto text-center">
             Get Started Now
           </button>
-          <button className="bg-white text-[#314259] px-7 py-3.5 rounded-[12px] font-semibold text-[16px] border border-gray-200 hover:border-gray-300 hover:bg-gray-50 transition-all shadow-sm w-full sm:w-auto text-center">
+          <button className="bg-white text-[#f97316] px-7 py-3.5 rounded-[12px] font-semibold text-[16px] border-2 border-[#f97316] hover:bg-[#f97316] hover:text-white transition-all shadow-sm w-full sm:w-auto text-center">
             View Services
           </button>
         </div>

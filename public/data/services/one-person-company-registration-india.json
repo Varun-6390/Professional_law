@@ -1,0 +1,261 @@
+{
+  "slug": "one-person-company-registration-india",
+  "keywords": ["One Person Company Registration", "OPC Registration in India", "OPC", "One Person Company"],
+  "title": "One Person Company Registration",
+  "mainHeading": "One Person Company (OPC) Registration in India",
+
+  "hero": {
+    "headline": "Start Your OPC with Simplicity and Legal Safety",
+    "subtext": "Launch your one-person business with the benefits of limited liability and legal recognition under the Companies Act, 2013 — with Professionals Law’s professional support."
+  },
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "A One Person Company (OPC) is a form of private limited company introduced under the Companies Act, 2013, designed specifically for those entrepreneurs who want to run the show independently.",
+      "It allows a single individual to incorporate and run a company with limited liability and full control, combining the benefits of a sole proprietorship and a corporate entity.",
+      "OPCs must comply with certain statutory obligations such as maintaining books of accounts, filing annual returns and auditing (if applicable), but they enjoy lighter compliance compared to other corporate structures."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "OPC is ideal for individual entrepreneurs who want to start a business in their name but also want to benefit from corporate structure, limited liability and formal recognition.",
+      "It provides a professional image and makes it easier to access bank loans, contracts and legal protections, without requiring a partner or co-founder."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Limited Liability",
+        "description": "The personal assets of the owner are protected and the liability is limited to the amount invested in the business."
+      },
+      {
+        "title": "Separate Legal Entity",
+        "description": "OPC enjoys its own legal identity, separate from its sole member."
+      },
+      {
+        "title": "Ease of Management",
+        "description": "Single person control allows quicker decision-making and flexibility in operations."
+      },
+      {
+        "title": "Lesser Compliance",
+        "description": "Compared to other company types, OPC has relaxed compliance in terms of meetings and filing."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "Basic Requirements",
+        "criteria": [
+          "Only one individual who is an Indian citizen and resident in India (staying in India for at least 120 days during the financial year) can form an OPC.",
+          "The individual must appoint a nominee who will take over the company in case of death or incapacity.",
+          "An individual cannot incorporate more than one OPC or be a nominee in more than one OPC.",
+          "OPC cannot carry out Non-Banking Financial Investment or investment activities."
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "For the Sole Owner & Nominee",
+        "documents": [
+          "Email ID",
+          "Mobile number",
+          "PAN Card",
+          "Aadhaar Card",
+          "Address proof (Bank Statement, Electricity Bill, etc.)",
+          "Passport-size photograph"
+        ]
+      },
+      {
+        "applicantType": "For the Registered Office",
+        "documents": [
+          "Rent Agreement (if rented)",
+          "NOC from the property owner",
+          "Utility bill (not older than 2 months)"
+        ]
+      },
+      {
+        "applicantType": "For the Nominee",
+        "documents": [
+          "Consent in Form INC-3",
+          "Identity and address proof"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Getting Registration",
+    "body": [
+      {
+        "step": "Obtain Digital Signature Certificate (DSC)",
+        "description": "Obtain DSC for the proposed director."
+      },
+      {
+        "step": "Reserve Company Name",
+        "description": "Reserve Company Name using the SPICe+ Part A form."
+      },
+      {
+        "step": "File SPICe+ Part B",
+        "description": "Submit SPICe+ Part B along with MOA, AOA, AGILE-PRO, Form INC-3 and other required documents."
+      },
+      {
+        "step": "PAN & TAN Application",
+        "description": "PAN & TAN applications are included in the incorporation process."
+      },
+      {
+        "step": "Receive Certificate of Incorporation",
+        "description": "Receive Certificate of Incorporation from the Registrar of Companies."
+      }
+    ]
+  },
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": " ",
+        "description": "The registration of a One Person Company typically takes 10 to 15 working days, depending on document verification and MCA approvals."
+      }
+    ]
+  },
+  "faqs": {
+    "body": [
+      {
+        "question": "Can a foreign national form an OPC in India?",
+        "answer": "No, only Indian citizens who are residents in India can form an OPC."
+      },
+      {
+        "question": "Is it mandatory to appoint a nominee in OPC?",
+        "answer": "Yes, a nominee must be appointed while incorporating an OPC to take over in case of the owner’s death or incapacity."
+      },
+      {
+        "question": "Can I convert my OPC into a Private Limited Company?",
+        "answer": "Yes, OPCs can be voluntarily converted into Private Limited Companies after 2 years or mandatorily if their turnover exceeds ₹2 crore or paid-up capital exceeds ₹50 lakh."
+      },
+      {
+        "question": "Do OPCs need to hold annual general meetings (AGM)?",
+        "answer": "No, AGMs are not required for OPCs."
+      },
+      {
+        "question": "Can OPC have more than one director?",
+        "answer": "Yes, while only one person can be the member/shareholder, there can be more than one director, but not more than 15."
+      },
+      {
+        "question": "What taxes are applicable to OPCs?",
+        "answer": "OPCs are taxed as private companies and are eligible for deductions under Startup India (if applicable)."
+      },
+      {
+        "question": "Is audit mandatory for OPC?",
+        "answer": "Yes, if the turnover exceeds ₹2 crore or paid-up capital exceeds ₹50 lakh, audit is mandatory."
+      },
+      {
+        "question": "What is the capital requirement for starting an OPC?",
+        "answer": "There is no minimum capital requirement for starting an OPC."
+      },
+      {
+        "question": "Can an OPC raise funding from investors?",
+        "answer": "OPCs cannot raise equity funding like private or public limited companies but can raise loans or convert into a Private Limited Company for funding."
+      }
+    ]
+  },
+ "connectedServices": [
+    { "name": "Private Limited Company", "url": "/services/private-limited-company-registration-india" },
+    { "name": "Limited Liability Partnership", "url": "/services/llp-registration" },
+    { "name": "Non-Banking Financial Company Registration ", "url": "/services/nbfc-registration" },
+    { "name": "Accounting & Bookkeeping", "url": "/services/accounting-and-bookkeeping" },
+    { "name": "Secretarial Records", "url": "/services/secretarial-records" }
+  ],
+  "pricing": {
+    "total": "6,999"
+  },
+  "metaTitle": "One Person Company Registration in India | OPC Online Filing",
+  "metaDescription": "Register a One Person Company (OPC) in India with Professionals Law. Get OPC registration online, complete documentation, filing support & quick approval.",
+  "openGraph": {
+    "title": "One Person Company Registration in India | OPC Online Filing",
+    "description": "Register a One Person Company (OPC) in India with Professionals Law. Get OPC registration online, complete documentation, filing support & quick approval.",
+    "url": "https://www.professionalslaw.com/services/one-person-company-registration-india",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "One Person Company Registration in India | OPC Online Filing",
+    "description": "Register a One Person Company (OPC) in India with Professionals Law. Get OPC registration online, complete documentation, filing support & quick approval.",
+    "images": ["https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/one-person-company-registration-india"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/one-person-company-registration-india",
+    "serviceType": "One Person Company Registration",
+    "name": "One Person Company Registration India",
+    "url": "https://www.professionalslaw.com/services/one-person-company-registration-india",
+    "description": "Register a One Person Company (OPC) in India with Professionals Law. Get OPC registration online, complete documentation, filing support & quick approval.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/one-person-company-registration-india",
+      "priceCurrency": "INR",
+      "price": "6999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "One Person Company Registration — Steps",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Obtain Digital Signature Certificate (DSC)" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Reserve Company Name" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "File SPICe+ Part B" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "PAN & TAN Application" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Receive Certificate of Incorporation" } }
+      ]
+    },
+    "serviceOutput": "Certificate of Incorporation",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/one-person-company-registration-india"
+    }
+  }
+}

@@ -11,6 +11,7 @@ export default function ServicesList({ onApply }) {
       title: "Delhi Factory License (Rule 1950)",
       description:
         "Mandatory licensing for factory operations within the National Capital Territory. Ensures compliance with security, welfare, and safety standards.",
+      slug: "factory-license-registration"
     },
     {
       state: "Uttar Pradesh",
@@ -18,6 +19,7 @@ export default function ServicesList({ onApply }) {
       title: "UP Factory License (Rule 1957)",
       description:
         "Registration for industrial units operating in UP. Register under State Factory Rules for worker safety, welfare, and shift approvals.",
+      slug: "factory-license-registration"
     },
     {
       state: "Maharashtra",
@@ -25,6 +27,7 @@ export default function ServicesList({ onApply }) {
       title: "Maharashtra Factory License",
       description:
         "Compliance licensing for manufacturing units in Maharashtra. Covers building stability, health checks, and worker shift approvals.",
+      slug: "factory-license-registration"
     },
     {
       state: "Haryana",
@@ -32,6 +35,7 @@ export default function ServicesList({ onApply }) {
       title: "Haryana Factory License (Rule 1953)",
       description:
         "Registration and license approval for factory units in Haryana under state norms. Offers quick turnaround for industrial approvals.",
+      slug: "factory-license-registration"
     },
     {
       state: "Bihar",
@@ -39,6 +43,7 @@ export default function ServicesList({ onApply }) {
       title: "Bihar Factory License (Rule 1950)",
       description:
         "State registration process for industrial units in Bihar. Ensures compliance with state machinery safety and workforce welfare laws.",
+      slug: "factory-license-registration"
     },
     {
       state: "West Bengal",
@@ -46,6 +51,7 @@ export default function ServicesList({ onApply }) {
       title: "WB Factory License (Rule 1958)",
       description:
         "Licensing support for units operating in West Bengal under the state factory directorate. Streamlined processing for quick approvals.",
+      slug: "factory-license-registration"
     },
   ];
 
@@ -56,6 +62,7 @@ export default function ServicesList({ onApply }) {
       title: "DPCC Pollution Board Consent",
       description:
         "Obtain Consent to Establish (CTE) & Consent to Operate (CTO) from Delhi Pollution Control Committee for green/orange categories.",
+      slug: "pollution-control-noc"
     },
     {
       state: "Uttar Pradesh",
@@ -63,6 +70,7 @@ export default function ServicesList({ onApply }) {
       title: "UPPCB Pollution Board Consent",
       description:
         "Environmental clearances and pollution consent certificates from Uttar Pradesh Pollution Control Board for safe industrial setup.",
+      slug: "pollution-control-noc"
     },
     {
       state: "Maharashtra",
@@ -70,6 +78,7 @@ export default function ServicesList({ onApply }) {
       title: "MPCB Pollution Board Consent",
       description:
         "Pollution consent clearances from Maharashtra Pollution Control Board (MPCB) for waste discharge and emissions.",
+      slug: "pollution-control-noc"
     },
     {
       state: "Haryana",
@@ -77,6 +86,7 @@ export default function ServicesList({ onApply }) {
       title: "HSPCB Pollution Board Consent",
       description:
         "Consent to Establish and Operate from Haryana State Pollution Control Board. Easy categorization and emission clearances.",
+      slug: "pollution-control-noc"
     },
     {
       state: "Bihar",
@@ -84,6 +94,7 @@ export default function ServicesList({ onApply }) {
       title: "BSPCB Pollution Board Consent",
       description:
         "Pollution control board consent certificates from Bihar (BSPCB) for manufacturing, processing, and warehousing units.",
+      slug: "pollution-control-noc"
     },
     {
       state: "West Bengal",
@@ -91,6 +102,7 @@ export default function ServicesList({ onApply }) {
       title: "WBPCB Pollution Board Consent",
       description:
         "Get environmental clearance and consent certificates (CTE/CTO) from West Bengal Pollution Control Board.",
+      slug: "pollution-control-noc"
     },
   ];
 
@@ -101,6 +113,7 @@ export default function ServicesList({ onApply }) {
       badge: "FIRE SERVICE DEPT",
       description:
         "Obtain Fire NOC certificate from state fire services confirming installation of mandatory safety equipment and layout plans.",
+      slug: "fire-noc-certificate"
     },
     {
       icon: <Award className="w-6 h-6 text-[#1572ed]" />,
@@ -108,6 +121,7 @@ export default function ServicesList({ onApply }) {
       badge: "MINISTRY OF MSME",
       description:
         "Online registration process for Micro, Small & Medium Enterprises to unlock priority sector lending, tax exemptions, and government subsidies.",
+      slug: "msme-registration-india"
     },
     {
       icon: <ShieldAlert className="w-6 h-6 text-emerald-500" />,
@@ -115,6 +129,7 @@ export default function ServicesList({ onApply }) {
       badge: "LABOUR DEPARTMENT",
       description:
         "Ensure contract labor license and worker registration under state contract labor acts for safe, legal contractor management.",
+      slug: "contract-labour-license"
     },
   ];
 
@@ -174,13 +189,13 @@ export default function ServicesList({ onApply }) {
                 </div>
 
                 <div className="flex items-center justify-between pt-5 border-t border-gray-100 mt-auto">
-                  <button
-                    onClick={onApply}
+                  <a
+                    href={`/services/${service.slug}`}
                     className="text-gray-500 hover:text-[#314259] text-sm font-semibold flex items-center gap-1.5 group/btn"
                   >
                     View Details
                     <ArrowUpRight size={16} className="group-hover/btn:translate-x-0.5 group-hover/btn:-translate-y-0.5 transition-transform" />
-                  </button>
+                  </a>
                   <button
                     onClick={onApply}
                     className="bg-[#f97316]/10 text-[#f97316] hover:bg-[#f97316] hover:text-white px-4 py-2 rounded-xl text-sm font-bold transition-all flex items-center gap-1.5 group/apply"
@@ -241,16 +256,16 @@ export default function ServicesList({ onApply }) {
                 </div>
 
                 <div className="flex items-center justify-between pt-5 border-t border-gray-100 mt-auto">
-                  <button
-                    onClick={onApply}
+                  <a
+                    href={`/services/${service.slug}`}
                     className="text-gray-500 hover:text-[#314259] text-sm font-semibold flex items-center gap-1.5 group/btn"
                   >
                     View Details
                     <ArrowUpRight size={16} className="group-hover/btn:translate-x-0.5 group-hover/btn:-translate-y-0.5 transition-transform" />
-                  </button>
+                  </a>
                   <button
                     onClick={onApply}
-                    className="bg-[#1572ed]/10 text-[#1572ed] hover:bg-[#1572ed] hover:text-white px-4 py-2 rounded-xl text-sm font-bold transition-all flex items-center gap-1.5 group/apply"
+                    className="bg-[#f97316]/10 text-[#f97316] hover:bg-[#f97316] hover:text-white px-4 py-2 rounded-xl text-sm font-bold transition-all flex items-center gap-1.5 group/apply"
                   >
                     Apply Now
                     <ArrowRight size={14} className="group-hover/apply:translate-x-0.5 transition-transform" />
@@ -307,13 +322,13 @@ export default function ServicesList({ onApply }) {
                 </div>
 
                 <div className="flex items-center justify-between pt-5 border-t border-gray-100 mt-auto">
-                  <button
-                    onClick={onApply}
+                  <a
+                    href={`/services/${service.slug}`}
                     className="text-gray-500 hover:text-[#314259] text-sm font-semibold flex items-center gap-1.5 group/btn"
                   >
                     View Details
                     <ArrowUpRight size={16} className="group-hover/btn:translate-x-0.5 group-hover/btn:-translate-y-0.5 transition-transform" />
-                  </button>
+                  </a>
                   <button
                     onClick={onApply}
                     className="bg-[#f97316]/10 text-[#f97316] hover:bg-[#f97316] hover:text-white px-4 py-2 rounded-xl text-sm font-bold transition-all flex items-center gap-1.5 group/apply"

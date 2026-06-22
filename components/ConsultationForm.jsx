@@ -77,14 +77,14 @@ export default function ConsultationForm({ isPopup = false }) {
         <div className="pt-2 space-y-3">
           <button
             type="submit"
-            className="w-full bg-[#0a1128] hover:bg-[#152042] text-white font-bold py-3.5 rounded-xl transition-colors text-sm shadow-md"
+            className="w-full bg-[#f97316] hover:bg-[#ea580c] text-white font-bold py-3.5 rounded-xl transition-colors text-sm shadow-md shadow-orange-500/20"
           >
             GET FREE REVIEW
           </button>
           
           <button
             type="button"
-            className="w-full bg-emerald-50 hover:bg-emerald-100 text-emerald-600 border border-emerald-200 font-bold py-3.5 rounded-xl transition-colors text-sm flex items-center justify-center gap-2"
+            className="w-full bg-white hover:bg-[#f97316] text-[#f97316] hover:text-white border-2 border-[#f97316] font-bold py-3.5 rounded-xl transition-all text-sm flex items-center justify-center gap-2"
           >
             <MessageCircle size={18} />
             Chat on WhatsApp

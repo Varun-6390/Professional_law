@@ -24,7 +24,7 @@ export default function CTASection() {
 
         <button
           onClick={() => setModalOpen(true)}
-          className="bg-[#1572ed] text-white hover:bg-[#115bbf] font-bold text-base md:text-lg px-8 py-4 rounded-xl shadow-lg shadow-blue-500/10 hover:shadow-xl hover:shadow-blue-500/20 transform hover:-translate-y-0.5 transition-all duration-300"
+          className="bg-[#f97316] text-white hover:bg-[#ea580c] font-bold text-base md:text-lg px-8 py-4 rounded-xl shadow-lg shadow-orange-500/20 hover:shadow-xl hover:shadow-orange-500/30 transform hover:-translate-y-0.5 transition-all duration-300"
         >
           Request Callback
         </button>

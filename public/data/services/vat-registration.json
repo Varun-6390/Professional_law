@@ -1,0 +1,282 @@
+{
+  "slug": "vat-registration",
+  "keywords": ["VAT Registration", "VAT Registration Online", "VAT Registration India"],
+  "title": "VAT Registration",
+  "hero": {
+    "headline": "State VAT Registration Made Simple with Professionals Law",
+    "subtext": "Specialized service for petroleum, alcohol and VAT-liable goods. Quick, compliant, and expert-handled.",
+    "cta": "Apply Now"
+  },
+  "mainHeading": "VAT Registration Online Service in India",
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "Value Added Tax (VAT) was a state-level indirect tax levied on the sale of goods within a particular state in India, applicable before the implementation of GST in July 2017. Although VAT has almost been replaced by GST, some goods, such as petroleum products and alcohols, continue to attract VAT in various states. It is compulsory for the businesses who deals this kind of goods and surpassed the prescribed turnover to register for VAT. Professionals Law assists businesses in determining whether VAT applies to them and in obtaining the necessary registration under applicable state laws. Our experts handle all procedural steps starting from documentation and application submission to dealing with VAT authorities and ensuring all the legal compliance are met with uninterrupted operations."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "Although GST has subsumed most indirect taxes, VAT is still applicable to select goods like petrol, diesel, natural gas, liquor, etc., in several states. Those entities dealing in such items must obtain VAT registration to conduct operations and collect tax. It ensures compliance with state-specific tax laws and enables businesses to issue VAT invoices, file returns, and claim input credits (where applicable). Professionals Law helps identify your business's applicability and facilitates end-to-end registration and filing solutions, keeping you compliant and penalty-free under evolving tax regimes."
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "",
+        "criteria": [
+          "Dealers and traders selling petroleum products, liquor, or natural gas within a state",
+          "Turnover exceeding the VAT registration threshold as prescribed by the respective state",
+          "Manufacturers and wholesalers dealing in goods under VAT-exempt categories",
+          "Importers and exporters of VAT-liable goods within a state jurisdiction",
+          "Businesses not covered under GST for certain product categories"
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Legal Authorization to Trade",
+        "description": "VAT registration enables legal trading of VAT-applicable goods such as alcohol and petroleum products, ensuring the business can operate without regulatory interruptions."
+      },
+      {
+        "title": "Enhanced Business Credibility",
+        "description": "A registered VAT number increases the trust of customers, vendors, and government bodies, positioning your business as a compliant and responsible entity."
+      },
+      {
+        "title": "Input Tax Credit Eligibility",
+        "description": "Businesses can claim input VAT on purchases, reducing their overall tax liability and making operations more cost-efficient."
+      },
+      {
+        "title": "Avoidance of Penalties",
+        "description": "Timely VAT registration and compliance with state tax norms helps in avoiding hefty fines and prosecution risks."
+      },
+      {
+        "title": "State-Level Tax Compliance",
+        "description": "VAT ensures that businesses comply with state-specific tax obligations not covered under GST, reducing legal exposure."
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "PAN Card of the Proprietor/Company",
+          "Proof of Business Address (Utility bill, Rent Agreement, etc.)",
+          "Identity and Address Proof of Proprietor/Partners/Directors",
+          "Certificate of Incorporation (for Companies)",
+          "MOA/AOA/Partnership Deed",
+          "Bank Statement or Cancelled Cheque",
+          "Proof of business premises ownership/lease",
+          "List of goods to be traded",
+          "Passport-sized photographs",
+          "Authorization Letter (if applicable)"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Applying",
+    "body": [
+      {
+        "step": "Eligibility Assessment",
+        "description": "Professionals Law reviews your product portfolio and operations to confirm VAT applicability."
+      },
+      {
+        "step": "Document Collection",
+        "description": "Our team gathers and verifies all required documents for state-specific VAT registration."
+      },
+      {
+        "step": "Application Filing",
+        "description": "Professionals Law files the VAT registration application with the appropriate state VAT department."
+      },
+      {
+        "step": "Departmental Verification",
+        "description": "A tax officer may inspect premises or documents as part of verification."
+      },
+      {
+        "step": "VAT Registration Certificate Issuance",
+        "description": "Upon successful verification, the department issues a VAT registration number."
+      },
+      {
+        "step": "Post-Registration Support",
+        "description": "Professionals Law also assists with VAT return filing and compliance if required."
+      }
+    ]
+  },
+  "image": "/public/assets/services/vat.png",
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Standard Processing Time",
+        "description": "The VAT registration process typically takes 7 to 10 working days depending on document readiness and state VAT department processing time."
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "Failure to Register",
+        "description": "Businesses operating without mandatory VAT registration may be fined up to ₹10,000 or more depending on the state law."
+      },
+      {
+        "title": "Late Filing of VAT Returns",
+        "description": "Delay in filing returns can attract daily penalties and interest on unpaid tax."
+      },
+      {
+        "title": "Misreporting or Non-Compliance",
+        "description": "Can result in license cancellation, blacklisting, or legal action."
+      }
+      
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 1499,
+    "governmentFee": 0,
+    "otherCharges": 500,
+    "total": 4999,
+    "currency": "INR"
+  },
+  "faqs": {
+    "heading": "FAQs",
+    "body": [
+      {
+        "question": "Is VAT still applicable after GST?",
+        "answer": "Yes, for specific goods like petroleum products and liquor, VAT is still levied by states."
+      },
+      {
+        "question": "Who should apply for VAT registration?",
+        "answer": "Any business dealing in VAT-liable products and exceeding turnover limits must register under VAT."
+      },
+      {
+        "question": "Can I trade VAT-liable goods without registration?",
+        "answer": "No, it is mandatory to register and file returns to trade such goods legally."
+      },
+      {
+        "question": "What is the turnover threshold for VAT registration?",
+        "answer": "This varies by state; generally, ranges from ₹5 lakhs to ₹10 lakhs annually."
+      },
+      {
+        "question": "How long does it take to get VAT registration?",
+        "answer": "With Professionals Law, VAT registration is usually completed within 7 to 10 working days."
+      },
+      {
+        "question": "Can I apply for VAT registration online?",
+        "answer": "Some states allow online applications; Professionals Law manages both online and offline processes."
+      },
+      {
+        "question": "What happens if I miss filing VAT returns?",
+        "answer": "Late filing attracts penalties and interest. Repeated non-compliance may lead to license suspension."
+      },
+      {
+        "question": "Does Professionals Law help with VAT return filing too?",
+        "answer": "Yes, Professionals Law offers end-to-end VAT compliance services including return filings."
+      },
+      {
+        "question": "Is VAT registration needed along with GST?",
+        "answer": "Yes, if you deal in goods outside GST purview, you need VAT registration in addition to GST."
+      }
+    ]
+  },
+"connectedServices": [
+  { "name": "GST Registration", "url": "/services/gst-registration-online" },
+  { "name": "GST Return", "url": "/services/gst-returns" },
+  { "name": "VAT Return", "url": "/services/vat-returns" },
+  { "name": "Liquor Licence", "url": "/services/liquor-license" },
+  { "name": "Trade Licence", "url": "/services/trade-license-registration-online" }
+],
+  "metaTitle": "VAT Registration Online in India | Expert Consultant & Service",
+  "metaDescription": "Get VAT registration online in India with Professionals Law. Know VAT registration cost, fees & requirements. Expert consultant support for fast registration.",
+  "openGraph": {
+    "title": "VAT Registration Online in India | Expert Consultant & Service",
+    "description": "Get VAT registration online in India with Professionals Law. Know VAT registration cost, fees & requirements. Expert consultant support for fast registration.",
+    "url": "https://www.professionalslaw.com/services/vat-registration",
+    "siteName": "Professionals Law",
+    "type": "website",
+    "images": [
+      {
+        "url": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+        "width": 1200,
+        "height": 630,
+        "alt": "Professionals Law"
+      }
+    ],
+    "locale": "en_IN"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "VAT Registration Online in India | Expert Consultant & Service",
+    "description": "Get VAT registration online in India with Professionals Law. Know VAT registration cost, fees & requirements. Expert consultant support for fast registration.",
+    "images": ["https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128"]
+  },
+  "alternates": {
+    "canonical": "https://www.professionalslaw.com/services/vat-registration"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.professionalslaw.com/services/vat-registration",
+    "serviceType": "VAT Registration",
+    "name": "VAT Registration Online Service India",
+    "url": "https://www.professionalslaw.com/services/vat-registration",
+    "description": "Get VAT registration online in India with Professionals Law. Know VAT registration cost, fees & requirements. Expert consultant support for fast registration.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Professionals Law",
+      "url": "https://www.professionalslaw.com/",
+      "logo": "https://www.professionalslaw.com/_next/image?q=75&url=%2F_next%2Fstatic%2Fmedia%2Flogo1.0a03009e.png&w=128",
+      "email": "info@professionalslaw.com",
+      "telephone": ["011-41734240", "+91 99997 04687"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "T-10, 3rd Floor, Pankaj Plaza, PLOT-7, Pocket 7, Sector 12, Dwarka",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/professionalslaw",
+        "https://www.instagram.com/professionalslaw",
+        "https://www.linkedin.com/company/professionals law",
+        "https://twitter.com/professionals law"
+      ]
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.professionalslaw.com/services/vat-registration",
+      "priceCurrency": "INR",
+      "price": "4999",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "VAT Registration — Steps",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Eligibility Assessment" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Document Collection" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Application Filing" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Departmental Verification" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "VAT Registration Certificate Issuance" } }
+      ]
+    },
+    "serviceOutput": "VAT Registration Certificate",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.professionalslaw.com/services/vat-registration"
+    }
+  }
+
+}

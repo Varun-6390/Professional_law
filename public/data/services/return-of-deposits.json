@@ -1,0 +1,206 @@
+{
+  "slug": "return-of-deposits",
+  "title": "Return of Deposits (DPT 3) Filing Service Online – Fees & Docs",
+  "metaDescription": "What is DPT 3 return? Learn how to file DPT 3 with expert return of deposits consultant support. Check documents required, filing fees & best service.",
+  "canonicalUrl": "https://www.professionalslaw.com/services/return-of-deposits",
+  "hero": {
+    "headline": "Return of Deposits (DPT 3) Filing Online – Fees, Documents & Expert Help",
+    "breadcrumbs": [
+      { "label": "Home", "url": "/" },
+      { "label": "Services", "url": "/services" },
+      {
+        "label": "Return of Deposits (DPT 3)",
+        "url": "/services/return-of-deposits"
+      }
+    ],
+    "subtext": "Ensure MCA compliance for loans, advances & borrowings with expert help from Professionals Law.",
+    "cta": "File DPT-3 Now"
+  },
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "Form DPT-3 is a mandatory annual filing under the Companies Act, 2013 and is prescribed under Rule 16 of the Companies (Acceptance of Deposits) Rules, 2014. It is applicable to all companies (except government companies) for the submission details of borrowings/loans as well as details of investments, guarantee and security, etc. by ventures as per the existing companie’s loans, 2013 in excel format for the financial year ending 31st March. It includes funds obtained by way of loans, debentures or advances (other than deposits). Professionals Law facilitates error-free filing of Form DPT3 without any hitch, right from collecting of documents and validating amount classification to certification and filing on MCA portal. By ensuring they comply with DPT-3 requirements, businesses protect themselves from financial investigations and massive fines issued by the Ministry of Corporate Affairs."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "It is mandatory for companies to file form DPT-3 to report the details of cash that they have accepted, but not considered as deposits. This ensures that the company’s financial dealing is transparent and that the regulators can trace borrowings and protect creditors. Even those companies which have received no deposits, file a ‘Nil’ return, if they have such transactions other than deposits. Professionals Law simplifies the filing process by correctly analysing the nature of borrowings and ensuring timely compliance to prevent penalties and avoid director disqualification."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Regulatory Compliance",
+        "description": "Filing DPT-3 helps companies comply with Ministry of Corporate Affairs regulations and avoid legal disputes and penalties."
+      },
+      {
+        "title": "Financial Transparency",
+        "description": "Promotes transparent financial reporting by disclosing borrowings and financial obligations not categorized as deposits."
+      },
+      {
+        "title": "Stakeholder Confidence",
+        "description": "Builds investor and stakeholder trust through accurate disclosures of loans, advances and financial instruments."
+      },
+      {
+        "title": "Avoidance of Penalties",
+        "description": "Timely and correct filing avoids penalties, compounding issues or late filing fees."
+      },
+      {
+        "title": "Audit and Due Diligence Preparedness",
+        "description": "Ensures proper documentation is maintained, aiding internal audits and external investor due diligence."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "The following companies are required to file DPT-3:",
+        "criteria": [
+          "All Private Limited Companies",
+          "All Public Limited Companies",
+          "All Section 8 Companies (excluding government companies)",
+          "Companies having loans, advances, debentures or any other non-deposit receipt on their books as of 31st March"
+        ]
+      },
+      {
+        "applicantType": "Exemptions:",
+        "criteria": [
+          "Government Companies",
+          "LLPs and Sole Proprietorships are not covered under this compliance."
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "Audited Balance Sheet or provisional financials as of 31st March",
+          "Loan agreements (if any)",
+          "Board Resolution authorizing DPT-3 filing",
+          "Certificate from statutory auditor or practicing professional (CA/CS/CMA)",
+          "Details of outstanding receipts of money or loans",
+          "PAN and CIN of the Company",
+          "DSC (Digital Signature Certificate) of Director"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Applying",
+    "body": [
+      {
+        "step": "Data Collection",
+        "description": "Professionals Law gathers financial data regarding outstanding borrowings and receipts."
+      },
+      {
+        "step": "Document Preparation",
+        "description": "Relevant resolutions, auditor certificates and supporting documents are prepared."
+      },
+      {
+        "step": "Form Classification",
+        "description": "Identify whether the filing is for Deposits, Non-Deposits or Both."
+      },
+      {
+        "step": "Filing Form DPT-3",
+        "description": "Prepare and digitally sign DPT-3 form and submit to the MCA portal."
+      },
+      {
+        "step": "Acknowledgement",
+        "description": "MCA issues an SRN (Service Request Number) upon successful submission."
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "",
+        "description": "Failure to file DPT-3 can attract:"
+      },
+      {
+        "title": "",
+        "description": "A penalty of ₹5,000 and"
+      },
+      {
+        "title": "",
+        "description": "₹500 per day of continued default"
+      },
+      {
+        "title": "",
+        "description": "Additional penalties may be imposed on directors and officers in default"
+      },
+      {
+        "title": "",
+        "description": "May also lead to prosecution or disqualification of directors in extreme cases"
+      }
+    ]
+  },
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "Annual DPT-3 Filing Deadline",
+        "description": "Return of Deposits is filed in form DPT-3 on or before 30th June (yearly) with MCA."
+      }
+    ]
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "body": [
+      {
+        "question": "Who needs to file DPT-3?",
+        "answer": "All companies except government companies must file DPT-3 if they have any outstanding loans, advances or borrowings."
+      },
+      {
+        "question": "Is DPT-3 mandatory even if no deposits are taken?",
+        "answer": "Yes, even if no deposits are taken, a company must file a 'Nil' DPT-3 for reporting non-deposit receipts."
+      },
+      {
+        "question": "What is the due date for DPT-3?",
+        "answer": "The due date for annual DPT-3 filing is 30th June every year for data as of 31st March."
+      },
+      {
+        "question": "What happens if I miss the due date?",
+        "answer": "Penalties include ₹5,000 plus ₹500 per day for continued default, along with possible prosecution."
+      },
+      {
+        "question": "Can Professionals Law assist with DPT-3 certification?",
+        "answer": "Yes, Professionals Law works with Chartered Accountants and Company Secretaries for certification and complete compliance support."
+      },
+      {
+        "question": "Is an auditor’s certificate necessary?",
+        "answer": "Yes, it is compulsory if the filing includes details related to money accepted as deposits."
+      },
+      {
+        "question": "Can I revise a filed DPT-3 form?",
+        "answer": "No, once submitted, DPT-3 cannot be revised. Hence, accurate filing is critical."
+      },
+      {
+        "question": "Is DPT-3 applicable to Section 8 Companies?",
+        "answer": "Yes, Section 8 companies are also required to file, unless exempted under any notification."
+      },
+      {
+        "question": "How can Professionals Law help?",
+        "answer": "Professionals Law offers end-to-end services including document drafting, classification, auditor coordination, form filing and MCA acknowledgment."
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 1299,
+    "governmentFee": 0,
+    "otherCharges": 0,
+    "total": 2999,
+    "currency": "INR"
+  },
+  "connectedServices": [
+    { "name": "Annual Return Filing", "url": "/services/annual-return" },
+    { "name": "Auditor Appointment", "url": "/services/appointment-of-auditor" }
+  ]
+}

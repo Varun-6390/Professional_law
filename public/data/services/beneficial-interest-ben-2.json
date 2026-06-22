@@ -1,0 +1,201 @@
+{
+  "slug": "beneficial-interest-ben-2",
+  "title": "Beneficial Interest BEN-2 Filing Online – Fees & Documents",
+  "metaDescription": "File BEN-2 filing online for beneficial interest BEN-2 compliance. Know what is BEN-1 form, how to file BEN-2, documents required, fees & service help.",
+  "canonicalUrl": "https://www.professionalslaw.com/services/beneficial-interest-ben-2",
+  "hero": {
+    "headline": "BEN-2 Filing in India – BEN-1 & Beneficial Interest BEN-2 Compliance Online",
+    "breadcrumbs": [
+      { "label": "Home", "url": "/" },
+      { "label": "Services", "url": "/services" },
+      { "label": "BEN-2 Filing", "url": "/services/beneficial-interest-ben-2" }
+    ],
+    "subtext": "Ensure legal transparency in ownership structures with Professionals Law's expert BEN-2 support.",
+    "cta": "File BEN-2 Now"
+  },
+  "introduction": {
+    "heading": "Introduction and Its Compliance",
+    "body": [
+      "BEN -2 is a mandatory return required to be filed pursuant to the Companies (Significant Beneficial Owners) Rules, 2018 issued on June 13, 2018 under Section 90 of the Companies Act, 2013. It is a return of beneficial owner in shares by the company to be filed with the RoC by an entity not entered in the register of members holding 10 per cent or more of its share capital. The publication of information helps in capturing the ownership’s transparency and misuse of legal persons. Professionals Law enables organisations to comply fully with this legislation with timely and accurate identification of SBOs, the collection of the required declarations (BEN-1) and the accurate and on-time completion of the BEN-2 form, thereby guaranteeing legal compliance and avoiding heavy fines."
+    ]
+  },
+  "whyNeeded": {
+    "heading": "Why It Is Needed",
+    "body": [
+      "The necessity for filing of BEN-2 is crucial to cast light on hidden structure of ownership in a company owned by other entities/ individuals etc where ultimate beneficial holding is diffused through layers of holding and/ or where shares of company are held in indirect manner. It allows regulators to track major players and to put a stop to financial malfeasance or money laundering. Inclusion of BEN-2 Filing of form BEN-2 helps the company to adhere to the Companies Act and to bring the company in line with international norms of disclosure. Would you like professional help in evaluating, documenting and reporting information on the beneficial interest so that your business is in strict compliance with MCA rules."
+    ]
+  },
+  "benefits": {
+    "heading": "Benefits and Advantages",
+    "body": [
+      {
+        "title": "Enhanced Ownership Transparency",
+        "description": "Ensures visibility of actual stakeholders, reducing the scope for illegal activities through undisclosed shareholding."
+      },
+      {
+        "title": "Legal Compliance Assurance",
+        "description": "Complying with BEN-2 filing avoids penalties and strengthens your company’s legal standing with the RoC."
+      },
+      {
+        "title": "Better Due Diligence Readiness",
+        "description": "Improves credibility during audits, due diligence and funding processes by clearly reflecting ownership structures."
+      },
+      {
+        "title": "Alignment with Global Standards",
+        "description": "Promotes corporate governance practices consistent with FATF and global financial regulations on beneficial ownership."
+      },
+      {
+        "title": "Support in Legal Proceedings",
+        "description": "Maintains records that can be used as evidence of declared ownership during litigation or shareholder disputes."
+      }
+    ]
+  },
+  "eligibilityCriteria": {
+    "heading": "Eligibility Criteria",
+    "categories": [
+      {
+        "applicantType": "BEN-2 filing is mandatory for:",
+        "criteria": [
+          "All companies (except government companies)",
+          "Where one or more individuals (Indian or foreign) hold:",
+          "10% or more beneficial interest in shares or",
+          "Exert significant influence or control, even if not named as registered shareholders",
+          "The beneficial owner is different from the registered owner"
+        ]
+      }
+    ]
+  },
+  "documentsRequired": {
+    "heading": "Documents Required",
+    "categories": [
+      {
+        "applicantType": "",
+        "documents": [
+          "Form BEN-1 declaration from the beneficial owner",
+          "Company’s Register of Members",
+          "PAN and Aadhaar (or passport, in case of foreign nationals) of beneficial owner",
+          "Proof of beneficial interest (shareholder agreements, declarations, etc.)",
+          "Board Resolution authorizing the filing",
+          "Digital Signature Certificate (DSC) of an authorized director",
+          "CIN and company incorporation documents"
+        ]
+      }
+    ]
+  },
+  "steps": {
+    "heading": "Steps for Applying",
+    "body": [
+      {
+        "step": "Identification of Beneficial Owner",
+        "description": "Analyse shareholding structure to detect any beneficial ownership as per threshold limits."
+      },
+      {
+        "step": "Obtain BEN-1 Declaration",
+        "description": "The beneficial owner provides a declaration in Form BEN-1 to the company."
+      },
+      {
+        "step": "Verification and Approval",
+        "description": "Professionals Law assists in verifying and compiling documentation for filing."
+      },
+      {
+        "step": "Preparation of Form BEN-2",
+        "description": "Draft and review the BEN-2 form to ensure accuracy."
+      },
+      {
+        "step": "Filing with RoC",
+        "description": "Submit BEN-2 on the MCA portal with DSC and generate SRN as proof of submission."
+      }
+    ]
+  },
+  "penalties": {
+    "heading": "Penalties",
+    "body": [
+      {
+        "title": "",
+        "description": "Failure to comply with BEN-2 provisions may attract:"
+      },
+      {
+        "title": "",
+        "description": "Penalty of ₹50,000 and"
+      },
+      {
+        "title": "",
+        "description": "A continuing fine of ₹1,000 for each day of default (maximum ₹2 lakh)"
+      },
+      {
+        "title": "",
+        "description": "Beneficial owners who fail to declare may also face separate penalties under the Act"
+      },
+      {
+        "title": "",
+        "description": "Company officers may be held liable for non-disclosure"
+      }
+    ]
+  },
+  "timelines": {
+    "heading": "Timelines",
+    "body": [
+      {
+        "title": "BEN-1 Receipt",
+        "description": "Receipt of BEN-1 declaration needs to be filed within 30 days of acquiring beneficial interest."
+      },
+      {
+        "title": "BEN-2 Filing Deadline",
+        "description": "Filing of BEN-2 within 30 days from receipt of BEN-1."
+      }
+    ]
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "body": [
+      {
+        "question": "What is Form BEN-2?",
+        "answer": "BEN-2 is a return filed by companies to report details of individuals holding significant beneficial ownership in shares."
+      },
+      {
+        "question": "Who is a significant beneficial owner?",
+        "answer": "Any individual holding directly or indirectly at least 10% of shares or control in a company."
+      },
+      {
+        "question": "Who must file BEN-2?",
+        "answer": "All companies (except government companies) must file BEN-2 upon receiving BEN-1 declarations from SBOs."
+      },
+      {
+        "question": "Is BEN-2 applicable to private companies?",
+        "answer": "Yes, it applies to private limited, public limited, Section 8 companies, etc."
+      },
+      {
+        "question": "What if a company has no beneficial owner?",
+        "answer": "No filing is required unless someone meets the threshold and submits BEN-1."
+      },
+      {
+        "question": "What if BEN-2 is filed late?",
+        "answer": "The company may face a penalty of ₹50,000 plus ₹1,000 per day of delay."
+      },
+      {
+        "question": "Is BEN-2 a recurring filing?",
+        "answer": "BEN-2 must be filed each time a new beneficial ownership declaration (BEN-1) is received."
+      },
+      {
+        "question": "Can Professionals Law help in identification of SBOs?",
+        "answer": "Yes, Professionals Law provides thorough assistance in identifying SBOs and ensuring accurate filings."
+      },
+      {
+        "question": "Does foreign ownership require BEN-2 filing?",
+        "answer": "Yes, foreign individuals holding beneficial interest must also be reported in BEN-2."
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Pricing Details",
+    "professionalFee": 1999,
+    "governmentFee": 0,
+    "otherCharges": 0,
+    "total": 2999,
+    "currency": "INR"
+  },
+  "connectedServices": [
+    { "name": "DIR-3 KYC", "url": "/services/dir-3-kyc" },
+    { "name": "Annual Return Filing", "url": "/services/annual-return" }
+  ]
+}
