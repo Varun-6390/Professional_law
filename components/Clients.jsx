@@ -99,32 +99,34 @@ export default function Clients() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.7, type: "spring", bounce: 0.3 }}
-          className="w-full relative rounded-[2rem] overflow-hidden bg-[#ebf3fe] shadow-lg flex flex-col md:block min-h-[460px] md:min-h-[380px] lg:min-h-[420px]"
+          className="w-full relative rounded-[2rem] overflow-hidden bg-white border border-gray-100 shadow-lg flex flex-col md:block min-h-[460px] md:min-h-[380px] lg:min-h-[420px]"
         >
           {/* Background Image (Desktop Only) */}
           <div className="absolute inset-0 z-0 select-none pointer-events-none overflow-hidden rounded-[2rem] md:block hidden">
             <div className="absolute -bottom-6 -right-6 -left-6 -top-6">
               <Image
-                src="/assets/images/profimgs.png"
+                src="/assets/images/profimgs-removebg-preview.png"
                 alt="Professional Law Verified Experts"
                 fill
                 priority
                 className="object-contain object-right"
               />
             </div>
+            {/* Soft left blend so text area stays clean */}
+            <div className="absolute inset-0 z-[1] bg-gradient-to-r from-white via-white/70 to-transparent" style={{ width: '55%' }} />
           </div>
 
-          {/* Left Content Area (Relative layout on desktop, top of stack on mobile) */}
+          {/* Left Content Area */}
           <div className="relative z-20 w-full md:w-[60%] lg:w-[55%] p-8 md:p-12 lg:p-16 flex flex-col justify-center items-start text-left bg-transparent min-h-[300px] md:min-h-[380px] lg:min-h-[420px]">
             {/* Pill/Badge */}
-            <div className="inline-flex items-center px-4 py-2 rounded-[10px] bg-[#4f46e5] text-white text-xs md:text-sm font-semibold mb-6 shadow-md shadow-indigo-500/20 tracking-wide uppercase">
+            <div className="inline-flex items-center px-4 py-2 rounded-[10px] bg-[#1572ed] text-white text-xs md:text-sm font-semibold mb-6 shadow-md shadow-blue-500/20 tracking-wide uppercase">
               Professional Law Verified Experts
             </div>
 
             {/* Heading */}
             <h3 className="text-3xl md:text-4xl lg:text-[42px] leading-tight lg:leading-[1.15] font-extrabold text-[#314259] tracking-tight mb-8">
               Need Expert Help?
-              <span className="block mt-2 text-transparent bg-clip-text bg-gradient-to-r from-[#1572ed] to-[#4f46e5]">
+              <span className="block mt-2 text-transparent bg-clip-text bg-gradient-to-r from-[#1572ed] to-[#f97316]">
                 India's top tax & legal experts
               </span>
               <span className="block mt-1 font-extrabold text-[#314259]">
@@ -135,7 +137,7 @@ export default function Clients() {
             {/* Button */}
             <button
               onClick={() => setModalOpen(true)}
-              className="border border-[#f97316] text-[#f97316] bg-white/50 hover:bg-[#f97316] hover:text-white px-8 py-3.5 rounded-xl font-bold text-[16px] transition-all duration-300 shadow-sm hover:shadow-[0_8px_20px_rgba(21,114,237,0.15)] hover:-translate-y-0.5 cursor-pointer z-30"
+              className="border border-[#f97316] text-[#f97316] bg-white/50 hover:bg-[#f97316] hover:text-white px-8 py-3.5 rounded-xl font-bold text-[16px] transition-all duration-300 shadow-sm hover:shadow-[0_8px_20px_rgba(249,115,22,0.15)] hover:-translate-y-0.5 cursor-pointer z-30"
             >
               Explore Assisted Filing Plans
             </button>
@@ -145,7 +147,7 @@ export default function Clients() {
           <div className="relative w-full h-[280px] md:hidden block overflow-hidden bg-transparent">
             <div className="absolute -bottom-6 -right-6 -left-6 -top-6">
               <Image
-                src="/assets/images/profimgs.png"
+                src="/assets/images/profimgs-removebg-preview.png"
                 alt="Professional Law Verified Experts"
                 fill
                 priority
