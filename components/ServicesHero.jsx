@@ -8,7 +8,7 @@ import Link from "next/link";
 
 export default function ServicesHero({ activeTab, onTabChange }) {
   const [modalOpen, setModalOpen] = useState(false);
-  
+
   const [searchQuery, setSearchQuery] = useState("");
   const [servicesList, setServicesList] = useState([]);
   const [filteredServices, setFilteredServices] = useState([]);
@@ -70,9 +70,6 @@ export default function ServicesHero({ activeTab, onTabChange }) {
 
   const tabs = [
     { id: "all", label: "All Services" },
-    { id: "factory-license", label: "Factory License" },
-    { id: "pollution-noc", label: "Pollution NOC" },
-    { id: "other-nocs", label: "Other NOCs" },
   ];
 
   const handleTabClick = (tabId) => {
@@ -144,7 +141,7 @@ export default function ServicesHero({ activeTab, onTabChange }) {
         </motion.p>
 
         {/* Search Bar */}
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.25 }}
@@ -155,8 +152,8 @@ export default function ServicesHero({ activeTab, onTabChange }) {
             <div className={`absolute inset-0 bg-gradient-to-r from-blue-500 to-[#f97316] rounded-2xl blur opacity-25 group-hover:opacity-40 transition-opacity duration-500 ${isSearchFocused ? 'opacity-50' : ''}`}></div>
             <div className="relative bg-white/10 border border-white/20 backdrop-blur-md rounded-2xl flex items-center p-2 focus-within:border-[#f97316]/50 focus-within:bg-white/15 transition-all">
               <Search className="w-6 h-6 text-gray-400 ml-3" />
-              <input 
-                type="text" 
+              <input
+                type="text"
                 className="w-full bg-transparent border-none outline-none text-white px-4 py-3 text-lg relative z-10"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
@@ -186,7 +183,7 @@ export default function ServicesHero({ activeTab, onTabChange }) {
           {/* Search Results Dropdown */}
           <AnimatePresence>
             {isSearchFocused && searchQuery.trim() !== '' && (
-              <motion.div 
+              <motion.div
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: 10 }}
@@ -196,7 +193,7 @@ export default function ServicesHero({ activeTab, onTabChange }) {
                   <ul className="py-2">
                     {filteredServices.map((service, idx) => (
                       <li key={idx}>
-                        <Link 
+                        <Link
                           href={`/services/${service.slug}`}
                           className="flex items-center gap-3 px-5 py-3 hover:bg-gray-50 transition-colors group"
                           onClick={() => setIsSearchFocused(false)}
@@ -245,27 +242,6 @@ export default function ServicesHero({ activeTab, onTabChange }) {
           </button>
         </motion.div>
 
-        {/* Navigation Tabs */}
-        <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.4 }}
-          className="mt-16 sm:mt-24 w-full max-w-2xl bg-white/5 border border-white/10 rounded-2xl p-2 flex flex-wrap gap-2 items-center justify-center shadow-lg backdrop-blur-md"
-        >
-          {tabs.map((tab) => (
-            <button
-              key={tab.id}
-              onClick={() => handleTabClick(tab.id)}
-              className={`flex-grow sm:flex-grow-0 px-6 py-3 rounded-xl text-sm md:text-base font-bold transition-all duration-300 ${
-                activeTab === tab.id
-                  ? "bg-[#f97316] text-white shadow-lg shadow-orange-500/25 scale-[1.02]"
-                  : "text-gray-300 hover:text-white hover:bg-white/5"
-              }`}
-            >
-              {tab.label}
-            </button>
-          ))}
-        </motion.div>
       </div>
 
       <ConsultationModal isOpen={modalOpen} onClose={() => setModalOpen(false)} />

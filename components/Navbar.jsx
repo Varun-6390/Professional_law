@@ -69,8 +69,9 @@ export default function Navbar() {
     <>
       {/* Top Gradient Border */}
       <div className="h-1 w-full"></div>
-      <nav className="flex items-center justify-between fixed z-50 px-4 md:px-8 py-4 md:py-5 w-full bg-white/80 backdrop-blur-md border-b border-b-gray-200">
-        {/* Logo */}
+      <nav className="fixed z-50 w-full bg-white/80 backdrop-blur-md border-b border-b-gray-200">
+        <div className="flex items-center justify-between w-full max-w-7xl mx-auto px-4 md:px-6 py-3.5 md:py-5">
+          {/* Logo */}
         <div className="flex items-center gap-2">
           <div className="bg-[#4f46e5] text-white p-1.5 rounded-lg shadow-sm">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -84,21 +85,21 @@ export default function Navbar() {
               <path d="M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16" />
             </svg>
           </div>
-          <Link href="/" className="text-[20px] md:text-[22px] font-bold text-[#131a31] tracking-tight">
+          <Link href="/" onClick={() => window.scrollTo(0, 0)} className="text-[20px] md:text-[22px] font-bold text-[#131a31] tracking-tight">
             Professional Law
           </Link>
         </div>
 
         {/* Links */}
         <div className="hidden md:flex items-center space-x-8">
-          <Link href="/" className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
+          <Link href="/" onClick={() => window.scrollTo(0, 0)} className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
             Home
           </Link>
-          <Link href="/about" className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
+          <Link href="/about" onClick={() => window.scrollTo(0, 0)} className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
             About Us
           </Link>
-          
-          <div 
+
+          <div
             className="relative"
             ref={dropdownRef}
             onMouseEnter={() => setIsServicesDropdownOpen(true)}
@@ -107,6 +108,7 @@ export default function Navbar() {
             <div className="flex items-center gap-1 group">
               <Link
                 href="/services"
+                onClick={() => window.scrollTo(0, 0)}
                 className="text-[15px] text-gray-500 group-hover:text-[#131a31] font-medium transition-colors outline-none"
               >
                 Services
@@ -137,11 +139,10 @@ export default function Navbar() {
                       <button
                         key={idx}
                         onMouseEnter={() => setActiveServiceCategory(cat.category)}
-                        className={`w-full flex items-center justify-between px-4 py-3.5 rounded-xl text-left text-[15px] transition-all duration-200 ${
-                          activeServiceCategory === cat.category 
-                            ? "bg-[#fff3eb] text-[#f97316] font-semibold" 
-                            : "text-[#4b5563] hover:bg-[#fff9f4] hover:text-[#131a31] font-medium"
-                        }`}
+                        className={`w-full flex items-center justify-between px-4 py-3.5 rounded-xl text-left text-[15px] transition-all duration-200 ${activeServiceCategory === cat.category
+                          ? "bg-[#fff3eb] text-[#f97316] font-semibold"
+                          : "text-[#4b5563] hover:bg-[#fff9f4] hover:text-[#131a31] font-medium"
+                          }`}
                       >
                         {cat.category}
                         {activeServiceCategory === cat.category ? (
@@ -162,6 +163,10 @@ export default function Navbar() {
                           <Link
                             key={idx}
                             href={item.href}
+                            onClick={() => {
+                              setIsServicesDropdownOpen(false);
+                              window.scrollTo(0, 0);
+                            }}
                             className="text-[15px] text-[#4b5563] hover:text-[#131a31] hover:bg-gray-50/80 px-3 py-3 rounded-xl transition-colors"
                           >
                             {item.name}
@@ -174,17 +179,17 @@ export default function Navbar() {
             </AnimatePresence>
           </div>
 
-          <Link href="/blog" className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
+          <Link href="/blog" onClick={() => window.scrollTo(0, 0)} className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
             Blog
           </Link>
-          <Link href="/contact" className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
+          <Link href="/contact" onClick={() => window.scrollTo(0, 0)} className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
             Contact
           </Link>
         </div>
 
         {/* Actions - Desktop */}
         <div className="hidden md:flex items-center space-x-6">
-          <Link href="/login" className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
+          <Link href="/login" onClick={() => window.scrollTo(0, 0)} className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
             Login
           </Link>
           <button className="bg-[#f97316] text-white px-5 py-2.5 rounded-[10px] text-[15px] font-medium hover:bg-[#ea580c] transition-colors shadow-sm shadow-orange-500/20">
@@ -192,14 +197,16 @@ export default function Navbar() {
           </button>
         </div>
 
-        {/* Mobile Menu Button */}
+        {/* Mobile Hamburger — always visible on small screens */}
         <div className="md:hidden flex items-center">
-          <button 
+          <button
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            className="text-gray-600 hover:text-[#131a31] transition-colors p-1"
+            aria-label="Toggle mobile menu"
+            className="flex items-center justify-center w-10 h-10 rounded-lg text-[#131a31] hover:bg-gray-100 transition-colors"
           >
-            {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
+            {isMobileMenuOpen ? <X size={24} strokeWidth={2.5} /> : <Menu size={24} strokeWidth={2.5} />}
           </button>
+        </div>
         </div>
       </nav>
 
@@ -207,32 +214,33 @@ export default function Navbar() {
       <AnimatePresence>
         {isMobileMenuOpen && (
           <motion.div
-            initial={{ opacity: 0, y: -10 }}
+            initial={{ opacity: 0, y: -8 }}
             animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -10 }}
-            className="fixed top-[70px] left-0 w-full bg-white shadow-lg border-b border-gray-200 z-40 md:hidden flex flex-col p-5"
+            exit={{ opacity: 0, y: -8 }}
+            transition={{ duration: 0.2 }}
+            className="fixed top-[57px] left-0 w-full bg-white shadow-xl border-b border-gray-200 z-40 md:hidden overflow-y-auto max-h-[calc(100vh-57px)]"
           >
-            <div className="flex flex-col space-y-4">
-              <Link href="/" onClick={() => setIsMobileMenuOpen(false)} className="text-gray-700 font-medium text-[16px] py-2 border-b border-gray-100">
+            <div className="flex flex-col px-5 py-4 space-y-1">
+              <Link href="/" onClick={() => { setIsMobileMenuOpen(false); window.scrollTo(0, 0); }} className="text-[#131a31] font-semibold text-[16px] px-3 py-3 rounded-xl hover:bg-gray-50 border-b border-gray-100">
                 Home
               </Link>
-              <Link href="/services" onClick={() => setIsMobileMenuOpen(false)} className="text-gray-700 font-medium text-[16px] py-2 border-b border-gray-100">
-                Services
-              </Link>
-              <Link href="/pricing" onClick={() => setIsMobileMenuOpen(false)} className="text-gray-700 font-medium text-[16px] py-2 border-b border-gray-100">
-                Pricing
-              </Link>
-              <Link href="/about" onClick={() => setIsMobileMenuOpen(false)} className="text-gray-700 font-medium text-[16px] py-2 border-b border-gray-100">
+              <Link href="/about" onClick={() => { setIsMobileMenuOpen(false); window.scrollTo(0, 0); }} className="text-[#131a31] font-semibold text-[16px] px-3 py-3 rounded-xl hover:bg-gray-50 border-b border-gray-100">
                 About Us
               </Link>
-              <Link href="/resources" onClick={() => setIsMobileMenuOpen(false)} className="text-gray-700 font-medium text-[16px] py-2 border-b border-gray-100">
-                Resources
+              <Link href="/services" onClick={() => { setIsMobileMenuOpen(false); window.scrollTo(0, 0); }} className="text-[#131a31] font-semibold text-[16px] px-3 py-3 rounded-xl hover:bg-gray-50 border-b border-gray-100">
+                Services
               </Link>
-              <div className="flex flex-col gap-3 pt-4">
-                <Link href="/login" onClick={() => setIsMobileMenuOpen(false)} className="text-center text-[#f97316] font-medium text-[16px] py-2.5 border-2 border-[#f97316] rounded-[10px] hover:bg-[#f97316] hover:text-white transition-all">
+              <Link href="/blog" onClick={() => { setIsMobileMenuOpen(false); window.scrollTo(0, 0); }} className="text-[#131a31] font-semibold text-[16px] px-3 py-3 rounded-xl hover:bg-gray-50 border-b border-gray-100">
+                Blog
+              </Link>
+              <Link href="/contact" onClick={() => { setIsMobileMenuOpen(false); window.scrollTo(0, 0); }} className="text-[#131a31] font-semibold text-[16px] px-3 py-3 rounded-xl hover:bg-gray-50 border-b border-gray-100">
+                Contact
+              </Link>
+              <div className="flex flex-col gap-3 pt-3">
+                <Link href="/login" onClick={() => { setIsMobileMenuOpen(false); window.scrollTo(0, 0); }} className="text-center text-[#f97316] font-semibold text-[16px] py-3 border-2 border-[#f97316] rounded-xl hover:bg-[#f97316] hover:text-white transition-all">
                   Login
                 </Link>
-                <button className="bg-[#f97316] text-white py-2.5 rounded-[10px] text-[16px] font-medium hover:bg-[#ea580c] transition-colors">
+                <button className="bg-[#f97316] text-white py-3 rounded-xl text-[16px] font-semibold hover:bg-[#ea580c] transition-colors shadow-md shadow-orange-500/20">
                   Talk to Expert
                 </button>
               </div>

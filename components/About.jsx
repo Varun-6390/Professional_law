@@ -64,7 +64,7 @@ export default function About() {
       >
         <motion.h2
           variants={itemVariants}
-          className="text-center text-3xl md:text-5xl font-extrabold text-[#314259] mb-10 drop-shadow-sm"
+          className="text-center text-2xl md:text-4xl font-extrabold text-[#314259] mb-10 drop-shadow-sm"
         >
           About Professional Law
         </motion.h2>

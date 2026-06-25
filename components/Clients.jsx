@@ -49,7 +49,7 @@ export default function Clients() {
 
           <motion.h2
             variants={itemVariants}
-            className="text-4xl md:text-5xl font-extrabold text-[#314259] text-center tracking-tight"
+            className="text-2xl md:text-4xl font-extrabold text-[#314259] text-center tracking-tight"
           >
             Our Esteemed Clients
           </motion.h2>

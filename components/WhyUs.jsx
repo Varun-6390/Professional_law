@@ -60,7 +60,7 @@ export default function WhyUs() {
           transition={{ duration: 0.5 }}
           className="text-center mb-16"
         >
-          <h2 className="text-3xl md:text-4xl lg:text-[40px] font-bold text-[#314259] tracking-tight">
+          <h2 className="text-2xl md:text-4xl font-bold text-[#314259] tracking-tight">
             Professional Law VS Others (Why us)
           </h2>
         </motion.div>

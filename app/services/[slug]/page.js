@@ -63,50 +63,56 @@ export default function ServiceDetails({ params }) {
   return (
     <div className="min-h-screen bg-[#fafbfe] flex flex-col font-sans">
       <Navbar />
-      
-      <main className="flex-grow w-full pt-24 pb-20">
+
+      {/* Absolute Full-width Background for Hero */}
+      <div className="absolute top-0 left-0 w-full h-[60vh] lg:h-[500px] z-0">
+        <div className="w-full h-full bg-cover bg-center" style={{ backgroundImage: "url('/assets/images/pexels-yankrukov-7792841.jpg')" }}></div>
+        <div className="absolute inset-0 bg-[#fafbfe]/60 backdrop-blur-[2px]"></div>
+        <div className="absolute bottom-0 left-0 w-full h-40 bg-gradient-to-t from-[#fafbfe] to-transparent"></div>
+      </div>
+
+      <main className="flex-grow w-full pt-28 pb-20 relative z-10">
         <div className="max-w-7xl mx-auto px-4 md:px-8">
-          
+
           {/* Breadcrumb */}
-          <div className="flex items-center flex-nowrap space-x-2 text-[14px] text-gray-500 mb-6 overflow-hidden">
+          <div className="flex items-center flex-nowrap space-x-2 text-[14px] text-gray-800 mb-8 overflow-hidden font-medium">
             <Link href="/" className="hover:text-[#f97316] transition-colors whitespace-nowrap shrink-0">Home</Link>
             <ChevronRight className="w-4 h-4 shrink-0" />
             <Link href="/services" className="hover:text-[#f97316] transition-colors whitespace-nowrap shrink-0">All Services</Link>
             <ChevronRight className="w-4 h-4 shrink-0" />
-            <span className="text-[#131a31] font-medium truncate min-w-0 whitespace-nowrap">{data.mainHeading}</span>
+            <span className="text-[#131a31] font-semibold truncate min-w-0 whitespace-nowrap">{data.mainHeading}</span>
           </div>
 
-          <div className="flex flex-col lg:flex-row gap-8 relative">
-            
-            {/* Left Content Area */}
+          <div className="flex flex-col lg:flex-row gap-8">
+
+            {/* Left Content Column (Hero text + Sections) */}
             <div className="lg:w-2/3">
-              
-              {/* Header block */}
-              <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-100 mb-8">
-                <div className="flex items-center gap-2 mb-4 bg-orange-50 text-orange-600 px-3 py-1.5 rounded-full w-fit text-sm font-medium">
+
+              {/* Hero Header */}
+              <div className="w-full flex flex-col justify-center pb-12 lg:pr-12">
+                <div className="flex items-center gap-2 mb-6 bg-orange-100/90 text-orange-700 px-4 py-1.5 rounded-full w-fit text-sm font-semibold backdrop-blur-sm shadow-sm">
                   <Star className="w-4 h-4 fill-orange-500 text-orange-500" />
                   <span>4.8/5 Rating</span>
                   <span className="text-orange-400">|</span>
                   <span>Based on 500+ Reviews</span>
                 </div>
-                <h1 className="text-[32px] md:text-[40px] font-bold text-[#131a31] leading-tight mb-4">
+                <h1 className="text-[36px] md:text-[48px] lg:text-[52px] font-extrabold text-[#131a31] leading-[1.1] tracking-tight mb-6">
                   {data.mainHeading}
                 </h1>
-                <p className="text-[16px] text-gray-600 mb-8 leading-relaxed">
+                <p className="text-[18px] text-gray-800 mb-8 max-w-2xl font-medium leading-relaxed">
                   {data.hero?.subtext || data.introduction?.body[0]}
                 </p>
-                
+
                 {/* Internal Nav */}
-                <div className="flex flex-wrap items-center gap-2 border-b border-gray-100 pb-2 sticky top-[80px] bg-white z-10 pt-2">
+                <div className="flex flex-wrap items-center gap-3">
                   {navItems.map((item) => (
                     <button
                       key={item.id}
                       onClick={() => scrollToSection(item.id)}
-                      className={`px-4 py-2 text-[15px] font-medium rounded-lg transition-all duration-200 ${
-                        activeSection === item.id 
-                          ? "bg-[#131a31] text-white" 
-                          : "text-gray-600 hover:bg-gray-50 hover:text-[#131a31]"
-                      }`}
+                      className={`px-5 py-2.5 text-[15px] font-semibold rounded-xl transition-all duration-200 ${activeSection === item.id
+                        ? "bg-[#f97316] text-white shadow-md shadow-orange-500/20"
+                        : "bg-white/70 text-gray-700 hover:bg-white hover:text-[#f97316] shadow-sm backdrop-blur-md"
+                        }`}
                     >
                       {item.label}
                     </button>
@@ -114,9 +120,36 @@ export default function ServiceDetails({ params }) {
                 </div>
               </div>
 
-              {/* Sections Container */}
+              {/* Sections content below hero text */}
               <div className="space-y-8">
-                
+
+                {/* Shifted Pricing Breakdown to Left Side */}
+                {data.pricing && (
+                  <div className="bg-[#fffcf8] rounded-2xl p-6 border border-[#ffedd5] shadow-sm mb-8">
+                    <h4 className="text-[20px] font-bold text-[#131a31] mb-4">Pricing Breakdown</h4>
+                    <div className="space-y-3 text-[15px] max-w-md">
+                      <div className="flex justify-between text-gray-600">
+                        <span>Professional Fee</span>
+                        <span className="font-medium">₹{data.pricing.professionalFee}</span>
+                      </div>
+                      <div className="flex justify-between text-gray-600">
+                        <span>Govt Fee</span>
+                        <span className="font-medium">₹{data.pricing.governmentFee}</span>
+                      </div>
+                      {data.pricing.otherCharges > 0 && (
+                        <div className="flex justify-between text-gray-600">
+                          <span>Other Charges</span>
+                          <span className="font-medium">₹{data.pricing.otherCharges}</span>
+                        </div>
+                      )}
+                      <div className="pt-3 mt-3 border-t border-[#ffedd5] flex justify-between text-[#131a31] font-bold">
+                        <span>Total (Est.)</span>
+                        <span className="text-[#f97316] text-lg">₹{data.pricing.total}</span>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
                 {/* Overview */}
                 <section id="overview" className="bg-white rounded-2xl p-8 shadow-sm border border-gray-100 scroll-mt-32">
                   <h2 className="text-[24px] font-bold text-[#131a31] mb-6 flex items-center gap-3">
@@ -128,7 +161,7 @@ export default function ServiceDetails({ params }) {
                       <p key={idx}>{para}</p>
                     ))}
                   </div>
-                  
+
                   {data.whyNeeded && (
                     <div className="mt-8 pt-8 border-t border-gray-100">
                       <h3 className="text-[20px] font-bold text-[#131a31] mb-4">{data.whyNeeded.heading}</h3>
@@ -260,80 +293,52 @@ export default function ServiceDetails({ params }) {
               </div>
             </div>
 
-            {/* Right Sidebar */}
+            {/* Right Sidebar (Sticky Form) */}
             <div className="lg:w-1/3">
-              <div className="sticky top-[100px]">
-                {/* Consultation Form Box */}
-                <div className="bg-white rounded-2xl p-6 shadow-[0_8px_30px_rgb(0,0,0,0.04)] border border-gray-100">
+              <div className="sticky top-[120px]">
+                <div className="bg-white rounded-2xl p-6 shadow-[0_8px_30px_rgb(0,0,0,0.08)] border border-gray-100">
                   <h3 className="text-[22px] font-bold text-[#131a31] mb-2">Talk to Our CA</h3>
-                  <p className="text-gray-500 text-sm mb-6">Get expert guidance for your {data.title} process.</p>
-                  
+                  <p className="text-gray-500 text-sm mb-6">Get expert guidance for your {data.title || data.mainHeading} process.</p>
+
                   <form className="space-y-4" onSubmit={(e) => e.preventDefault()}>
                     <div className="relative">
                       <User className="w-5 h-5 text-gray-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
-                      <input 
-                        type="text" 
-                        placeholder="Your Name" 
+                      <input
+                        type="text"
+                        placeholder="Your Name"
                         className="w-full bg-[#fafbfe] border border-gray-200 text-gray-800 text-[15px] rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#f97316] focus:ring-1 focus:ring-[#f97316] transition-colors"
                       />
                     </div>
                     <div className="relative">
                       <Mail className="w-5 h-5 text-gray-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
-                      <input 
-                        type="email" 
-                        placeholder="Email Address" 
+                      <input
+                        type="email"
+                        placeholder="Email Address"
                         className="w-full bg-[#fafbfe] border border-gray-200 text-gray-800 text-[15px] rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#f97316] focus:ring-1 focus:ring-[#f97316] transition-colors"
                       />
                     </div>
                     <div className="relative">
                       <Phone className="w-5 h-5 text-gray-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
-                      <input 
-                        type="tel" 
-                        placeholder="Phone Number" 
+                      <input
+                        type="tel"
+                        placeholder="Phone Number"
                         className="w-full bg-[#fafbfe] border border-gray-200 text-gray-800 text-[15px] rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#f97316] focus:ring-1 focus:ring-[#f97316] transition-colors"
                       />
                     </div>
                     <div className="relative">
                       <MessageSquare className="w-5 h-5 text-gray-400 absolute left-3.5 top-3.5" />
-                      <textarea 
-                        placeholder="Message (Optional)" 
+                      <textarea
+                        placeholder="Message (Optional)"
                         rows={3}
                         className="w-full bg-[#fafbfe] border border-gray-200 text-gray-800 text-[15px] rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#f97316] focus:ring-1 focus:ring-[#f97316] transition-colors resize-none"
                       />
                     </div>
-                    <button className="w-full bg-[#f97316] text-white font-semibold py-3.5 rounded-xl hover:bg-[#ea580c] transition-colors flex items-center justify-center gap-2 group">
+                    <button className="w-full bg-[#f97316] text-white font-semibold py-3.5 rounded-xl hover:bg-[#ea580c] transition-colors flex items-center justify-center gap-2 group mt-2">
                       Get Free Quote
                       <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                     </button>
                   </form>
                 </div>
-
-                {/* Additional Sidebar Info (Pricing, etc) */}
-                {data.pricing && (
-                  <div className="bg-[#fffcf8] rounded-2xl p-6 mt-6 border border-[#ffedd5]">
-                    <h4 className="font-bold text-[#131a31] mb-4">Pricing Breakdown</h4>
-                    <div className="space-y-3 text-[15px]">
-                      <div className="flex justify-between text-gray-600">
-                        <span>Professional Fee</span>
-                        <span className="font-medium">₹{data.pricing.professionalFee}</span>
-                      </div>
-                      <div className="flex justify-between text-gray-600">
-                        <span>Govt Fee</span>
-                        <span className="font-medium">₹{data.pricing.governmentFee}</span>
-                      </div>
-                      {data.pricing.otherCharges > 0 && (
-                        <div className="flex justify-between text-gray-600">
-                          <span>Other Charges</span>
-                          <span className="font-medium">₹{data.pricing.otherCharges}</span>
-                        </div>
-                      )}
-                      <div className="pt-3 mt-3 border-t border-[#ffedd5] flex justify-between text-[#131a31] font-bold">
-                        <span>Total (Est.)</span>
-                        <span className="text-[#f97316] text-lg">₹{data.pricing.total}</span>
-                      </div>
-                    </div>
-                  </div>
-                )}
               </div>
             </div>
 
@@ -351,7 +356,7 @@ export default function ServiceDetails({ params }) {
 function ChevronDownIcon(props) {
   return (
     <svg {...props} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <path d="m6 9 6 6 6-6"/>
+      <path d="m6 9 6 6 6-6" />
     </svg>
   );
 }

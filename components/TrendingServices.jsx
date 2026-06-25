@@ -127,7 +127,7 @@ export default function TrendingServices() {
         {/* Heading */}
         <motion.h2
           variants={itemVariants}
-          className="text-3xl md:text-5xl font-extrabold text-[#314259] mb-10 drop-shadow-sm"
+          className="text-2xl md:text-4xl font-extrabold text-[#314259] mb-10 drop-shadow-sm"
         >
           Trending Services
         </motion.h2>
