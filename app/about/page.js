@@ -80,22 +80,22 @@ export default function AboutPage() {
     {
       name: "Rajesh Sharma",
       role: "Managing Partner",
-      img: "/assets/images/pexels-olly-3777557.jpg",
+      img: "/assets/images/arvind.jpg",
     },
     {
       name: "Priya Desai",
       role: "Head of Corporate Law",
-      img: "/assets/images/pexels-helenalopes-27086922.jpg",
+      img: "/assets/images/karola.jpg",
     },
     {
       name: "Amit Patel",
       role: "Chief Operations Officer",
-      img: "/assets/images/p1.jpg",
+      img: "/assets/images/anil.jpg",
     },
     {
-      name: "David D'souza",
+      name: "Rajeev Kulkarni",
       role: "Director of AI Compliance",
-      img: "/assets/images/pexels-matazumultimedia-33048698.jpg",
+      img: "/assets/images/vishal.jpg",
     },
   ];
 

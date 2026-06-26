@@ -6,15 +6,18 @@ import Image from "next/image";
 import Link from "next/link";
 import { Search, Clock, ArrowRight, ShieldCheck, FileText, PhoneCall, CheckCircle2 } from "lucide-react";
 import { useState } from "react";
+import ConsultationModal from "@/components/ConsultationModal";
 
 export default function BlogPage() {
   const [activeCategory, setActiveCategory] = useState("All");
+  const [modalOpen, setModalOpen] = useState(false);
 
   const categories = ["All", "Company Registration", "Tax Compliance", "Trademarks & IP", "Licenses & NOCs"];
 
   const blogPosts = [
     {
       title: "Understanding Private Limited Company Registration: A Complete Guide",
+      slug: "understanding-private-limited-company-registration",
       excerpt: "Thinking of setting up a startup in India? Read our complete, step-by-step guide covering eligibility, document checklist, and timelines.",
       category: "Company Registration",
       readTime: "5 min read",
@@ -24,6 +27,7 @@ export default function BlogPage() {
     },
     {
       title: "How to File Your GST Returns Without Penalties",
+      slug: "how-to-file-your-gst-returns",
       excerpt: "Filing GST returns accurately is critical for any business. Here is a simplified walkthrough of the application process and common pitfalls to avoid.",
       category: "Tax Compliance",
       readTime: "7 min read",
@@ -33,6 +37,7 @@ export default function BlogPage() {
     },
     {
       title: "Trademark Registration: Protecting Your Brand Identity",
+      slug: "trademark-registration-protecting-brand",
       excerpt: "Protect your brand and products from copycats by securing a Trademark. Learn about the necessary classes, document requirements, and timeline.",
       category: "Trademarks & IP",
       readTime: "4 min read",
@@ -42,6 +47,7 @@ export default function BlogPage() {
     },
     {
       title: "Key Differences Between MSME Registration and Startup India",
+      slug: "msme-registration-vs-startup-india",
       excerpt: "Many entrepreneurs confuse MSME registration with Startup India recognition. We break down the differences, key benefits, and eligibility criteria.",
       category: "Licenses & NOCs",
       readTime: "6 min read",
@@ -51,6 +57,7 @@ export default function BlogPage() {
     },
     {
       title: "Top 5 Common Compliance Pitfalls for Indian Startups",
+      slug: "compliance-pitfalls",
       excerpt: "Avoid heavy penalties, operational delays, and closure notices. Discover the most common compliance mistakes made by new founders.",
       category: "Company Registration",
       readTime: "8 min read",
@@ -60,8 +67,8 @@ export default function BlogPage() {
     }
   ];
 
-  const filteredPosts = activeCategory === "All" 
-    ? blogPosts 
+  const filteredPosts = activeCategory === "All"
+    ? blogPosts
     : blogPosts.filter(post => post.category === activeCategory);
 
   return (
@@ -69,25 +76,25 @@ export default function BlogPage() {
       <Navbar />
 
       <main className="flex-grow w-full pt-20">
-        
+
         {/* Hero Section */}
         <section className="relative w-full overflow-hidden bg-gradient-to-b from-[#f0f4f8] to-[#fafbfe] pt-16 pb-12 lg:pt-24 lg:pb-16 px-4">
           <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-blue-100/50 rounded-full blur-3xl pointer-events-none -z-10" />
           <div className="absolute bottom-0 right-1/4 w-[400px] h-[400px] bg-orange-100/40 rounded-full blur-3xl pointer-events-none -z-10" />
-          
+
           <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between gap-12">
-            
+
             {/* Left Content */}
             <div className="w-full lg:w-3/5 text-center lg:text-left z-10">
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-green-200 text-green-700 text-sm font-semibold mb-6 shadow-sm">
                 <ShieldCheck size={16} className="text-green-600" />
                 <span>Trusted Compliance Resource</span>
               </div>
-              
+
               <h1 className="text-[38px] md:text-[52px] lg:text-[60px] font-extrabold text-[#131a31] leading-[1.15] tracking-tight mb-6">
                 Compliance <span className="text-[#1572ed]">Insights</span> & <span className="text-[#f97316]">Expert</span> Guides
               </h1>
-              
+
               <p className="text-lg text-gray-600 mb-10 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
                 Stay ahead of regulatory requirements. Access deep-dive articles, step-by-step registration checklists, and practical compliance advice for your business.
               </p>
@@ -113,12 +120,12 @@ export default function BlogPage() {
             </div>
 
             {/* Right Image */}
-            <div className="w-full lg:w-2/5 flex justify-center lg:justify-end relative">
+            <div className="hidden lg:flex w-full lg:w-2/5 justify-center lg:justify-end relative">
               <div className="relative w-[320px] h-[320px] sm:w-[400px] sm:h-[400px] lg:w-[450px] lg:h-[450px]">
                 {/* Decorative blob/shape behind image */}
                 <div className="absolute inset-0 bg-gradient-to-tr from-[#1572ed]/20 to-[#f97316]/20 rounded-full blur-2xl transform scale-90 -z-10" />
                 <Image
-                  src="/assets/images/girl.png"
+                  src="/assets/images/undraw_blogging_38kl.svg"
                   alt="Compliance Expert"
                   fill
                   className="object-contain drop-shadow-2xl"
@@ -126,7 +133,7 @@ export default function BlogPage() {
                 />
               </div>
             </div>
-            
+
           </div>
         </section>
 
@@ -137,11 +144,10 @@ export default function BlogPage() {
               <button
                 key={category}
                 onClick={() => setActiveCategory(category)}
-                className={`px-5 py-2.5 rounded-full text-[14px] font-semibold transition-all duration-300 ${
-                  activeCategory === category
-                    ? "bg-[#f97316] text-white shadow-md shadow-orange-500/20"
-                    : "bg-white text-gray-600 border border-gray-200 hover:border-[#f97316] hover:text-[#f97316]"
-                }`}
+                className={`px-5 py-2.5 rounded-full text-[14px] font-semibold transition-all duration-300 ${activeCategory === category
+                  ? "bg-[#f97316] text-white shadow-md shadow-orange-500/20"
+                  : "bg-white text-gray-600 border border-gray-200 hover:border-[#f97316] hover:text-[#f97316]"
+                  }`}
               >
                 {category}
               </button>
@@ -154,7 +160,7 @@ export default function BlogPage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredPosts.map((post, idx) => (
               <div key={idx} className="bg-white rounded-[1.5rem] overflow-hidden border border-gray-100 shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col group">
-                
+
                 {/* Card Header/Gradient */}
                 <div className={`h-48 w-full bg-gradient-to-br ${post.bgGradient} relative p-5 flex flex-col justify-between`}>
                   <div className="flex justify-between items-start">
@@ -180,17 +186,17 @@ export default function BlogPage() {
                     <span className="w-1 h-1 rounded-full bg-gray-300" />
                     <span>{post.author}</span>
                   </div>
-                  
+
                   <h3 className="text-xl font-bold text-[#131a31] leading-tight mb-3 group-hover:text-[#1572ed] transition-colors">
-                    <Link href="#">{post.title}</Link>
+                    <Link href={`/blog/${post.slug}`}>{post.title}</Link>
                   </h3>
-                  
+
                   <p className="text-gray-500 text-[15px] leading-relaxed mb-6 line-clamp-3 flex-grow">
                     {post.excerpt}
                   </p>
-                  
-                  <Link href="#" className="inline-flex items-center gap-2 text-[#f97316] font-bold text-[15px] group/btn">
-                    Read Article 
+
+                  <Link href={`/blog/${post.slug}`} className="inline-flex items-center gap-2 text-[#f97316] font-bold text-[15px] group/btn">
+                    Read Article
                     <ArrowRight className="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />
                   </Link>
                 </div>
@@ -223,7 +229,7 @@ export default function BlogPage() {
               <h2 className="text-3xl md:text-5xl font-extrabold text-white leading-tight mb-6 max-w-2xl">
                 Need expert help with <span className="text-[#f97316]">business registration</span> and compliance approvals?
               </h2>
-              
+
               <p className="text-gray-300 text-lg mb-12 max-w-xl leading-relaxed">
                 Get guided support for eligibility, documents, application steps, NOCs, renewals, and all approval-related compliance requirements.
               </p>
@@ -249,7 +255,9 @@ export default function BlogPage() {
 
               {/* Actions */}
               <div className="flex flex-wrap items-center justify-center lg:justify-start gap-4">
-                <button className="bg-[#f97316] text-white px-8 py-4 rounded-xl font-bold text-[16px] hover:bg-[#ea580c] transition-colors shadow-lg shadow-orange-500/30 flex items-center gap-2">
+                <button
+                  onClick={() => setModalOpen(true)}
+                  className="bg-[#f97316] text-white px-8 py-4 rounded-xl font-bold text-[16px] hover:bg-[#ea580c] transition-colors shadow-lg shadow-orange-500/30 flex items-center gap-2">
                   Get Free Consultation <ArrowRight className="w-5 h-5" />
                 </button>
                 <button className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold text-[16px] hover:bg-white/20 transition-all flex items-center gap-2 backdrop-blur-md">
@@ -258,6 +266,8 @@ export default function BlogPage() {
               </div>
             </div>
           </div>
+
+          <ConsultationModal isOpen={modalOpen} onClose={() => setModalOpen(false)} />
         </section>
 
       </main>
