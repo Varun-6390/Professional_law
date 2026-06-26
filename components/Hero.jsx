@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import { Star, ShieldCheck, CheckCircle, Sparkles } from "lucide-react";
 import ConsultationForm from "./ConsultationForm";
 import AnimatedNumber from "./AnimatedNumber";
+import Link from "next/link";
 
 export default function Hero() {
   const words = ["Startups", "Manufacturers", "Units", "Service Industry"];
@@ -98,12 +99,16 @@ export default function Hero() {
           Streamline your legal, tax, and compliance processes with our expert-led platform. Focus on growing your business while we handle the paperwork.
         </p>
         <div className="mt-8 flex flex-col sm:flex-row items-stretch sm:items-center gap-4 w-full sm:w-auto">
-          <button className="bg-[#f97316] text-white px-7 py-3.5 rounded-[12px] font-semibold text-[16px] hover:bg-[#ea580c] transition-colors shadow-md shadow-orange-500/20 w-full sm:w-auto text-center">
-            Get Started Now
-          </button>
-          <button className="bg-white text-[#f97316] px-7 py-3.5 rounded-[12px] font-semibold text-[16px] border-2 border-[#f97316] hover:bg-[#f97316] hover:text-white transition-all shadow-sm w-full sm:w-auto text-center">
-            View Services
-          </button>
+          <Link href="/contact" className="w-full sm:w-auto">
+            <button className="bg-[#f97316] w-full text-white px-7 py-3.5 rounded-[12px] font-semibold text-[16px] hover:bg-[#ea580c] transition-colors shadow-md shadow-orange-500/20 text-center">
+              Get Started Now
+            </button>
+          </Link>
+          <Link href="/services" className="w-full sm:w-auto">
+            <button className="bg-white w-full text-[#f97316] px-7 py-3.5 rounded-[12px] font-semibold text-[16px] border-2 border-[#f97316] hover:bg-[#f97316] hover:text-white transition-all shadow-sm text-center">
+              View Services
+            </button>
+          </Link>
         </div>
       </div>
 

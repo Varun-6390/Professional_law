@@ -2,7 +2,7 @@ import { User, Phone, ChevronDown, MessageCircle, Star } from "lucide-react";
 
 export default function ConsultationForm({ isPopup = false }) {
   return (
-    <div className={`bg-white w-full mx-auto z-10 relative ${isPopup ? '' : 'rounded-2xl md:rounded-[24px] p-6 md:p-8 shadow-2xl border border-gray-100 max-w-md'}`}>
+    <div className={`bg-white w-full mx-auto z-10 relative ${isPopup ? '' : 'rounded-2xl md:rounded-[24px] p-4 md:p-6 shadow-2xl border border-gray-100 max-w-md'}`}>
       <p className="text-[11px] font-bold text-[#f97316] mb-2 tracking-widest uppercase">Instant Case Check</p>
       <h2 className="text-[28px] md:text-[32px] font-bold text-[#314259] mb-2 leading-tight">Check Claim Eligibility</h2>
       <p className="text-gray-500 mb-6 text-sm">Free evaluation by experts in 24 hours.</p>

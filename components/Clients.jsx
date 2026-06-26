@@ -30,7 +30,7 @@ export default function Clients() {
   const scrollLogos = [...logos, ...logos, ...logos];
 
   return (
-    <section className="py-6 w-full overflow-hidden bg-[#fafbfe] relative z-0">
+    <section className="py-6 w-full bg-[#fafbfe] relative">
       {/* Decorative Background */}
       <div className="absolute inset-0 z-[-1] pointer-events-none overflow-hidden">
         <div className="absolute top-[-10%] left-[-5%] w-[400px] h-[400px] rounded-full bg-[#1572ed]/5 blur-[120px]" />

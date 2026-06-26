@@ -24,7 +24,7 @@ export default function ConsultationModal({ isOpen, onClose }) {
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.95, y: 20 }}
             transition={{ type: "spring", duration: 0.5, bounce: 0.3 }}
-            className="relative z-10 w-full max-w-lg bg-white rounded-2xl p-6 sm:p-8 md:p-10 shadow-2xl overflow-y-auto max-h-[90vh]"
+            className="relative z-10 w-full max-w-lg bg-white rounded-2xl p-2 sm:p-4 md:p-6 shadow-2xl overflow-y-auto max-h-[90vh] [&::-webkit-scrollbar]:hidden [-ms-overflow-style:'none'] [scrollbar-width:'none']"
           >
             {/* Close Button */}
             <button

@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { Check } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function About() {
   const containerVariants = {
@@ -134,14 +135,18 @@ export default function About() {
                 ))}
               </motion.ul>
 
-              <motion.button
-                variants={itemVariants}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-                className="bg-[#f97316] text-white px-8 py-3.5 rounded-xl font-medium hover:bg-[#ea580c] transition-colors shadow-md shadow-orange-500/20"
+              <Link
+                href="/about"
               >
-                Read Our Full Story
-              </motion.button>
+                <motion.button
+                  variants={itemVariants}
+                  whileHover={{ scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
+                  className="bg-[#f97316] text-white px-8 py-3.5 rounded-xl font-medium hover:bg-[#ea580c] transition-colors shadow-md shadow-orange-500/20"
+                >
+                  Read Our Full Story
+                </motion.button>
+              </Link>
             </motion.div>
           </motion.div>
         </div>

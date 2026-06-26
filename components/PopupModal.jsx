@@ -52,7 +52,7 @@ export default function PopupModal() {
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.95, y: 20 }}
             transition={{ type: "spring", duration: 0.5, bounce: 0.3 }}
-            className="relative z-10 w-full max-w-5xl bg-white rounded-2xl md:rounded-[24px] shadow-2xl overflow-hidden flex flex-col md:flex-row max-h-[90vh] md:max-h-none overflow-y-auto md:overflow-y-visible"
+            className="relative z-10 w-full max-w-5xl bg-white rounded-2xl md:rounded-[24px] shadow-2xl overflow-hidden flex flex-col md:flex-row max-h-[90vh] md:max-h-none overflow-y-auto md:overflow-y-visible [&::-webkit-scrollbar]:hidden [-ms-overflow-style:'none'] [scrollbar-width:'none']"
           >
             {/* Close Button */}
             <button
