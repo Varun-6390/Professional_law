@@ -29,12 +29,12 @@ export default function ConsultationModal({ isOpen, onClose }) {
             {/* Close Button */}
             <button
               onClick={onClose}
-              className="absolute top-4 right-4 p-2 bg-gray-100 hover:bg-gray-200 text-gray-600 rounded-full transition-colors z-50"
+              className="absolute top-2 right-2 sm:top-4 sm:right-4 p-2 bg-gray-100 hover:bg-gray-200 text-gray-600 rounded-full transition-colors z-50"
             >
               <X size={20} strokeWidth={2.5} />
             </button>
 
-            <div className="text-center mb-6">
+            <div className="text-center mb-6 mt-6 sm:mt-0 px-8 sm:px-10">
               <h3 className="text-2xl font-bold text-[#314259] mb-2">Book Free Consultation</h3>
               <p className="text-sm text-gray-500">
                 Submit your details and our compliance expert will contact you shortly.

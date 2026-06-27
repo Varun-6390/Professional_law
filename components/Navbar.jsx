@@ -91,7 +91,7 @@ export default function Navbar() {
           </div>
 
           {/* Links */}
-          <div className="hidden md:flex items-center space-x-8">
+          <div className="hidden lg:flex items-center space-x-8">
             <Link href="/" onClick={() => window.scrollTo(0, 0)} className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
               Home
             </Link>
@@ -188,7 +188,7 @@ export default function Navbar() {
           </div>
 
           {/* Actions - Desktop */}
-          <div className="hidden md:flex items-center space-x-6">
+          <div className="hidden lg:flex items-center space-x-6">
             {/* <Link href="/login" onClick={() => window.scrollTo(0, 0)} className="text-[15px] text-gray-500 hover:text-[#131a31] font-medium transition-colors">
               Login
             </Link> */}
@@ -200,7 +200,7 @@ export default function Navbar() {
           </div>
 
           {/* Mobile Hamburger — always visible on small screens */}
-          <div className="md:hidden flex items-center">
+          <div className="lg:hidden flex items-center">
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               aria-label="Toggle mobile menu"
@@ -220,7 +220,7 @@ export default function Navbar() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -8 }}
             transition={{ duration: 0.2 }}
-            className="fixed top-[57px] left-0 w-full bg-white shadow-xl border-b border-gray-200 z-40 md:hidden overflow-y-auto max-h-[calc(100vh-57px)]"
+            className="fixed top-[57px] left-0 w-full bg-white shadow-xl border-b border-gray-200 z-40 lg:hidden overflow-y-auto max-h-[calc(100vh-57px)]"
           >
             <div className="flex flex-col px-5 py-4 space-y-1">
               <Link href="/" onClick={() => { setIsMobileMenuOpen(false); window.scrollTo(0, 0); }} className="text-[#131a31] font-semibold text-[16px] px-3 py-3 rounded-xl hover:bg-gray-50 border-b border-gray-100">
